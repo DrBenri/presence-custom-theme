@@ -1,0 +1,22 @@
+{
+    "name": "wpzoom/framework",
+    "description": "ZOOM Framework is a platform which comes packaged with every WPZOOM Theme.",
+    "type": "wordpress",
+    "require-dev": {
+        "dealerdirect/phpcodesniffer-composer-installer": "^0.7.1",
+        "wp-coding-standards/wpcs": "^2.3",
+        "phpcompatibility/phpcompatibility-wp": "^2.1",
+        "squizlabs/php_codesniffer": "^3.6"
+    },
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "WPZOOM",
+            "email": "support@wpzoom.com"
+        }
+    ],
+    "scripts": {
+        "format": "phpcbf --standard=.phpcs.xml.dist --report-summary --report-source",
+        "lint": "phpcs --standard=.phpcs.xml.dist --runtime-set ignore_warnings_on_exit 1"
+    }
+}

@@ -1,0 +1,101 @@
+/*
+Theme Name: Presence
+Description: Used to style the Block editor.
+*/
+
+.wp-block {
+  margin-bottom: 30px;
+  margin-top: 30px;
+  max-width: 800px;
+}
+/*
+.wp-block:not([data-type="core/paragraph"]):not([data-type="core/list"]):not([data-type="core/archives"]):not([data-type="core/categories"]):not([data-type="core/latest-posts"]):not([data-type="core/latest-comments"]) {
+  margin-bottom: 42px;
+  margin-top: 42px;
+}*/
+
+.wp-block[data-align="wide"] {
+  max-width: 910px;
+}
+
+@media screen and (min-width: 719px) {
+  .wp-block[data-align="wide"] {
+    margin-bottom: 52px !important;
+    margin-top: 52px !important;
+  }
+}
+
+.wp-block[data-align="full"] {
+  margin-bottom: 40px !important;
+  margin-top: 40px !important;
+  max-width: none;
+}
+
+@media screen and (min-width: 719px) {
+  .wp-block[data-align="full"] {
+    margin-bottom: 60px !important;
+    margin-top: 60px !important;
+  }
+}
+
+
+.wp-block[data-type="core/gallery"] {
+  width: 100%;
+}
+
+.blocks-gallery-grid.blocks-gallery-grid {
+    width: 100%;
+}
+
+
+.editor-inner-blocks .wp-block {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+
+/** === Base Typography === */
+body {
+  color: #444;
+  font-family: "Libre Franklin", sans-serif;
+  font-size: 16px;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.8;
+}
+
+/** === Title === */
+
+.editor-post-title__block .editor-post-title__input {
+  font-family: "Libre Franklin", sans-serif;
+  text-rendering: optimizeLegibility;
+  font-smoothing: antialiased;
+}
+
+
+.wp-block-pullquote,
+.wp-block-pullquote blockquote {
+    border: none;
+}
+
+
+.wp-block-pullquote blockquote:before,
+.wp-block-pullquote blockquote:after {
+   content: "";
+   display: block;
+   width: 60px;
+   height: 2px;
+   margin: 30px auto;
+   background: #e2e2e2;
+}
+
+.wp-block-image .aligncenter > figcaption,
+.wp-block-image .alignleft > figcaption,
+.wp-block-image .alignright > figcaption,
+.wp-block-image.is-resized > figcaption {
+    display: block;
+    margin-top: 0;
+    font-size: 14px;
+    color: #868686;
+}

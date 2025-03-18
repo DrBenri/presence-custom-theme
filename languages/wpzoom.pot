@@ -1,0 +1,5415 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-10 06:32+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: functions/wpzoom/components/updater/theme-updater.php:117
+msgid ""
+" or click <u><a target=\"_blank\" href=\"https://www.wpzoom.com/tutorial/how-"
+"to-update-a-wpzoom-theme/\">here</a></u> to view how to update your theme."
+msgstr ""
+
+#: functions/jetpack/plugin-enhancements.php:256
+#, php-format
+msgid " Please activate %1$s. %2$s"
+msgstr ""
+
+#: functions/jetpack/plugin-enhancements.php:266
+#, php-format
+msgid " Please install %1$s. %2$s"
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-video-background-on-hover.php:188
+msgid " video detected. Use it here?"
+msgstr ""
+
+#: single-listing.php:491 comments.php:19 single-listing-full.php:487
+msgid "% Comments"
+msgstr ""
+
+#: content.php:29 wpzoom-slider.php:81
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:655
+#, php-format
+msgid "%1$s \"%2$s\" already exists."
+msgstr ""
+
+#. %s URL to document.
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:182
+#, php-format
+msgid "%1$sPlease report this <a href=\"%2$s\" target=\"_blank\">here</a>.%3$s"
+msgstr ""
+
+#. %s URL to document.
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:178
+#, php-format
+msgid ""
+"%1$sRead <a href=\"%2$s\" target=\"_blank\">article</a> to resolve the issue "
+"and continue importing template.%3$s"
+msgstr ""
+
+#: functions/wpzoom/pages/update.php:30
+#, php-format
+msgid "%1$sUpdate Framework Automatically%2$s "
+msgstr ""
+
+#. %s URL to document.
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:180
+#, php-format
+msgid ""
+"%1$sWe could not complete the import process due to failed AJAX request and "
+"this is the message:%2$s"
+msgstr ""
+
+#. %s HTML tags
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:176
+#, php-format
+msgid ""
+"%1$sWe could not start the import process due to failed AJAX request and "
+"this is the message from WordPress:%2$s"
+msgstr ""
+
+#: functions/woocommerce.php:41
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/woocommerce.php:29
+#, php-format
+msgid "%d item &ndash; "
+msgid_plural "%d items &ndash; "
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/wpzoom/components/updater/framework-updater.php:285
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: functions/wpzoom/components/featured-posts/wpzoom-featured-posts.php:362
+#: functions/wpzoom/components/demo-importer/demo-importer.php:50
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: functions/template-tags.php:29
+#, php-format
+msgid "%s at %s"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:188
+#, php-format
+msgid "%s has been successfully imported!"
+msgstr ""
+
+#: tribe-events/single-event.php:24
+msgid "&laquo; All Events"
+msgstr ""
+
+#: pagination.php:11
+msgid "&larr; Previous"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:787
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:834
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:873
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:912
+#, php-format
+msgid "&quot;%1$s&quot; (ID %2$s) is Failed."
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:947
+#, php-format
+msgid "&quot;%1$s&quot; (ID %2$s) was successfully resized in %3$s seconds."
+msgstr ""
+
+#: functions/wpzoom/pages/update.php:57
+#, php-format
+msgid "&rarr; <strong>You are using the latest framework version:</strong> %s"
+msgstr ""
+
+#: functions/template-tags.php:54
+msgid "(Edit)"
+msgstr ""
+
+#: functions/post-options.php:68
+msgid "(optional)"
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-giphy-controller.php:149
+msgid "(YouTube and Vimeo only)"
+msgstr ""
+
+#: functions/wpzoom/components/post-slider/post-slider.php:97
+msgid "+ Add Slide"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:561
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:693
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:701
+msgid "-- Select --"
+msgstr ""
+
+#: content.php:29 wpzoom-slider.php:81
+msgid "0 comments"
+msgstr ""
+
+#: single-listing.php:491 single-listing-full.php:487
+msgid "1 Comment"
+msgstr ""
+
+#: content.php:29 wpzoom-slider.php:81
+msgid "1 comment"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:93
+msgid "100 or greater"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:181
+msgid ""
+"20+ video tutorials that cover everything you need to know to get started "
+"using WordPress."
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:98
+msgid "256<abbr title=\"Megabytes\">M</abbr> or greater"
+msgstr ""
+
+#: functions/widgets/subpages.php:198
+msgid "3"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:78
+msgid "300 or greater"
+msgstr ""
+
+#: functions/widgets/subpages.php:199
+msgid "4"
+msgstr ""
+
+#: functions/widgets/subpages.php:200
+msgid "5"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:88
+msgid "5<abbr title=\"Megabytes\">M</abbr> or greater"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:83
+msgid "64<abbr title=\"Megabytes\">M</abbr> or greater"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:103
+msgid "7.2 or greater"
+msgstr ""
+
+#: functions/wpzoom/components/admin/settings-page.php:233
+msgid ""
+"<a href=\"https://www.wpzoom.com/support/\" target=\"_blank\">Support "
+"Desk</a>"
+msgstr ""
+
+#: functions/wpzoom/components/admin/settings-page.php:232
+msgid ""
+"<a href=\"https://www.wpzoom.com/support/documentation\" target=\"_blank\">"
+"Documentation and Tutorials</a>"
+msgstr ""
+
+#: functions/wpzoom/components/updater/framework-updater.php:151
+msgid ""
+"<div class=\"updated fade\"><p>New framework successfully downloaded, "
+"extracted and updated.</p></div>"
+msgstr ""
+
+#: functions/wpzoom/components/updater/framework-updater.php:60
+msgid "<p class=\"description\">Failed: Invalid URL Provided</p>"
+msgstr ""
+
+#: functions/wpzoom/components/updater/framework-updater.php:62
+#, php-format
+msgid "<p class=\"description\">Failed: Upload - %s</p>"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:586
+#, php-format
+msgid ""
+"<p><a href=\"%s\" target=\"_blank\">Edit Menus structure</a></p><p>You can "
+"find more instructions in this <a href=\"https://www.wpzoom.com/docs/set-up-"
+"navigation-menus/\" target=\"_blank\">video tutorial</a> <em>(opens in new "
+"tab)</em>.</p>"
+msgstr ""
+
+#: functions/wpzoom/components/updater/framework-updater.php:318
+#, php-format
+msgid "<p>Failed: Filesystem preventing downloads. (%s)</p>"
+msgstr ""
+
+#: functions/wpzoom/components/admin/settings-page.php:227
+msgid ""
+"<p>Some themes provide customization options that are grouped together on a "
+"Theme Options screen. If you change themes, options may change or disappear, "
+"as they are theme-specific. </p><p>Your current theme is running on <a "
+"href=\"https://www.wpzoom.com/framework-tour/\" target=\"_blank\">ZOOM "
+"Framework</a>. The <strong>ZOOM framework</strong> is designed to ease the "
+"process of customizing WPZOOM themes. The many options available allow you "
+"to change almost every aspect of your WPZOOM theme without needing to know "
+"how to write any sort of code. The framework has also been designed to stay "
+"as consistent as possible across all WPZOOM themes so you can take your "
+"knowledge from one theme to another with ease.</p>"
+msgstr ""
+
+#: functions/wpzoom/components/admin/settings-page.php:241
+msgid ""
+"<p>The <Strong>ZOOM Framework</strong> has the ability to import and export "
+"various theme and widget settings. This allows you to easily transfer "
+"specific setups between different sites and also to backup settings so you "
+"won't ever lose them.</p>"
+msgstr ""
+
+#: functions/wpzoom/components/admin/settings-fields.php:413
+#, php-format
+msgid ""
+"<p>This option has been deprecated in favor of the Site Icon setting in "
+"WordPress core. Please visit %s to configure your site icon.</p>"
+msgstr ""
+
+#. %s The documentation URL
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:163
+#, php-format
+msgid ""
+"<p>We are facing a temporary issue in importing this template.</p><p>Read <a "
+"href=\"%s\" target=\"_blank\">article</a> to resolve the issue and continue "
+"importing template.</p>"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:161
+msgid ""
+"<p>WordPress debug mode is currently enabled on your website. This has "
+"interrupted the import process..</p><p>Please disable debug mode and try "
+"importing Demo Content again.</p><p>You can add the following code into the "
+"wp-config.php file to disable debug mode.</p><p><code>define('WP_DEBUG', "
+"false);</code></p>"
+msgstr ""
+
+#: functions/wpzoom/components/featured-posts/wpzoom-featured-posts.php:427
+#, php-format
+msgid ""
+"<p>You can change the number of the posts in <a href=\"%s\">Theme Options</a>"
+".</p>"
+msgstr ""
+
+#: functions/wpzoom/components/featured-posts/wpzoom-featured-posts.php:426
+#, php-format
+msgid "<p>Your slideshow is limited to show %d posts.</p>"
+msgstr ""
+
+#: comments.php:35
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater.php:55
+#, php-format
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" "
+"title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</a>"
+"."
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:382
+msgid ""
+"<strong>20+ video tutorials</strong> that cover everything you need to know "
+"to get started using WordPress."
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:1739
+msgid ""
+"<strong>CAUTION:</strong><span>Choosing a style kit will overwrite previous "
+"customizer settings (fonts, colors, etc.)<br/><br/>Some styles may look "
+"glitchy in the Customizer, so make sure to refresh the page after selecting "
+"a style, or view the website outside the Customizer.</span>"
+msgstr ""
+
+#: functions/wpzoom/components/video-thumb.php:104
+msgid ""
+"<strong>NOTICE!&nbsp;&nbsp;Unable to fetch video thumbnail</strong><br/>"
+"Either an invalid embed code was provided, or there is no thumbnail "
+"available for the specified video&hellip;<br/><small "
+"id=\"wpz_autothumb_remind\"><strong>REMINDER:</strong> You can always "
+"manually upload a featured image via the WordPress Media Uploader.</small>"
+msgstr ""
+
+#: functions/wpzoom/pages/update.php:24
+msgid ""
+"<strong>NOTICE:</strong> <em>Updating the framework will not affect any of "
+"the changes or customization you have made to the theme or to your website. "
+"For more information visit this <a href=\"https://www.wpzoom.com/docs/using-"
+"the-zoom-framework-automatic-updates/\" target=\"_blank\">tutorial</a></em>."
+msgstr ""
+
+#: functions/theme-guide-data.php:5
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:101
+msgid ""
+"<strong>Theme Documentation</strong> is the place where you'll find the "
+"information needed to setup the theme quickly, and other details about theme-"
+"specific features."
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:546
+#, php-format
+msgid ""
+"<strong>Your theme license key has reached its activation limit. Please "
+"%1$supgrade%2$s your license or contact WPZOOM if you have an unlimited "
+"license.</strong>"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:685
+#, php-format
+msgid "A <a href=\"%s\">static page</a> (select below)"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:131
+msgid "A Child Theme"
+msgstr ""
+
+#: functions/wpzoom/pages/update.php:23
+msgid ""
+"A new update for the framework of your <strong>WPZOOM</strong> theme is "
+"available!"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:239
+#: functions/wpzoom/components/child-theme/options.php:16
+msgid ""
+"A WordPress child theme allows you to apply custom code changes to your site."
+" Using a child theme ensures that all your custom changes will not be "
+"overwritten even when you update the parent theme."
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:46
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer-log.php:547
+msgid "Actions"
+msgstr ""
+
+#: functions/jetpack/plugin-enhancements.php:258
+msgid "Activate"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:244
+msgid "Activate Child Theme"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:245
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:397
+msgid "Activate Child Theme after it was installed."
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater.php:39
+msgid "Activate License"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:251
+msgid "Activate recommended plugin"
+msgid_plural "Activate recommended plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:285
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:962
+msgid "Activate Your License Key"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/setup.php:90
+#: functions/wpzoom/components/admin/settings-page.php:276
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:158
+msgid "Activate Your License Key!"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:283
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:1606
+msgid "Active"
+msgstr ""
+
+#: functions/wpzoom/components/portfolio/portfolio.php:75
+msgid "Add New"
+msgstr ""
+
+#: functions/wpzoom/components/portfolio/portfolio.php:133
+msgid "Add New Category"
+msgstr ""
+
+#: functions/wpzoom/components/portfolio/portfolio.php:76
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: functions/custom-post-types.php:56
+msgid "Add New Slideshow Item"
+msgstr ""
+
+#: functions/custom-post-types.php:14
+msgid "Add New Testimonial"
+msgstr ""
+
+#: functions/wpzoom/components/portfolio/portfolio.php:136
+msgid "Add or remove categories"
+msgstr ""
+
+#: functions/theme-guide-data.php:20
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:116
+msgid "Add your Logo & Customize the Theme"
+msgstr ""
+
+#: functions/functions.php:583
+msgid "Additional Profile Information"
+msgstr ""
+
+#: single-listing.php:138 single-listing-full.php:135
+msgid "Address:"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:204
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:393
+msgid "Advanced Settings"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:147
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:203
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:234
+msgid "Advanced settings"
+msgstr ""
+
+#: archive-jetpack-portfolio.php:9 taxonomy-jetpack-portfolio-type.php:13
+#: page-templates/jetpack-portfolio.php:19
+#: functions/wpzoom/components/customizer/helpers/helpers.php:1702
+msgid "All"
+msgstr ""
+
+#: functions/wpzoom/components/portfolio/portfolio.php:129
+msgid "All Categories"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:322
+#: functions/wpzoom/components/demo-importer/demo-importer.php:369
+msgid "All done!"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:631
+msgid "All Google Fonts"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:157
+msgctxt "All options and demo content imported 100%"
+msgid "All done!"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:227
+msgid ""
+"All previous changes made to customizer will be replaced with data from demo "
+"content!"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:221
+msgid ""
+"All previous changes made to widgets will be replaced with data from demo "
+"content!"
+msgstr ""
+
+#: functions/wpzoom/components/tracking/class-plugin-usage-tracker.php:825
+msgid "Allow"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:131
+msgid ""
+"allows you to apply custom code changes to your theme without actually "
+"changing the code or the files in the parent theme. Using a child theme "
+"ensures that all your custom changes will not be overwritten even when you "
+"update the parent theme. In the <strong>Advanced Settings</strong> you can "
+"find additional options or you can Skip this step and install it later."
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:513
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:550
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:605
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-license.php:522
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-license.php:565
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-license.php:610
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: functions/customizer/customizer-data.php:1412
+msgid "Archives Page Title"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:157
+#, php-format
+msgid "Are you sure want to delete «%s» demo content?"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:323
+msgid ""
+"Are you sure you want to delete the imported demo content? This action will "
+"delete all pages and posts that have been imported, whether or not they have "
+"been edited later."
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:258
+msgid "Are you sure you want to load the demo content?"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/controls.php:185
+msgid "Are you sure?"
+msgstr ""
+
+#: functions/widgets/single-page.php:200
+msgid "As Background"
+msgstr ""
+
+#: functions/widgets/single-page.php:201
+msgid "At the Top"
+msgstr ""
+
+#: functions/widgets/latest-products.php:205
+#: functions/widgets/featured-products.php:170
+#: functions/widgets/carousel.php:172
+msgid "Auto-Scroll"
+msgstr ""
+
+#: functions/wpzoom/components/child-theme/options.php:27
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:396
+msgid "Automatically activate Child Theme?"
+msgstr ""
+
+#: functions/widgets/latest-products.php:207
+#: functions/widgets/featured-products.php:172
+#: functions/widgets/carousel.php:174
+msgid "Automatically scroll through the posts"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:257
+msgid "Background Color"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer-log.php:545
+msgid "Backup file"
+msgstr ""
+
+#: functions/wpzoom/components/tracking/class-plugin-usage-tracker.php:911
+msgid ""
+"Before you deactivate the plugin, would you quickly give us your reason for "
+"doing so?"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:278
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Name of the template
+msgid "Blank"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:153
+msgid "Blog"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:1435
+msgid "Blog Posts Title"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:55
+msgid "Blue"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:1130
+msgid "Body"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:272
+msgid "Body Text"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:1442
+msgid "Bold"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:162
+msgid "Boxed"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:58
+msgid "Brown"
+msgstr ""
+
+#: functions/wpzoom/components/dashboard/dashboard.php:41
+msgid "Browse more &rarr;"
+msgstr ""
+
+#: functions/wpzoom/components/dashboard/dashboard.php:41
+msgid ""
+"Browse our wide selection of WordPress themes to find the right one for you"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:735
+msgid "Button Background"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:765
+msgid "Button Background Hover"
+msgstr ""
+
+#: functions/widgets/call-to-action.php:118
+msgid "Button Label:"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:720
+msgid "Button Text"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:750
+msgid "Button Text Hover"
+msgstr ""
+
+#: functions/widgets/call-to-action.php:123
+msgid "Button URL:"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:362
+msgid "Buttons Background"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:392
+msgid "Buttons Background on Hover"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:377
+msgid "Buttons Text Color"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:407
+msgid "Buttons Text Color on Hover"
+msgstr ""
+
+#: content.php:28
+msgid "by"
+msgstr ""
+
+#: functions/widgets/subpages.php:179
+msgid "By Creation Date (newest first)"
+msgstr ""
+
+#: functions/widgets/subpages.php:180
+msgid "By Creation Date (oldest first)"
+msgstr ""
+
+#: functions/widgets/subpages.php:181
+msgid "By Page Order"
+msgstr ""
+
+#: functions/widgets/subpages.php:178
+msgid "By Title Alphabetically"
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-giphy-controller.php:343
+msgid "Can not fetch thumbnail from the url"
+msgstr ""
+
+#: functions/wpzoom/components/updater/theme-updater.php:37
+#: functions/wpzoom/components/updater/framework-updater.php:233
+#: functions/wpzoom/components/updater/framework-updater.php:261
+msgid "Can't contact WPZOOM server. Please try again later."
+msgstr ""
+
+#: functions/wpzoom/pages/admin.php:15
+msgid ""
+"Can't save options. Please contact <a href=\"https://wpzoom.com/support/\">"
+"WPZOOM Support</a>."
+msgstr ""
+
+#: comments.php:83
+#: functions/wpzoom/components/demo-importer/demo-importer.php:145
+msgid "Cancel"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:207
+msgctxt "Cancel demo import modal"
+msgid "Cancel"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:554
+msgid "Cannot import auto-draft posts"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:1479
+msgid "Capitalize"
+msgstr ""
+
+#: functions/widgets/carousel.php:197
+#: functions/wpzoom/components/portfolio/portfolio.php:123
+#: functions/wpzoom/components/portfolio/portfolio.php:125
+msgid "Categories"
+msgstr ""
+
+#: functions/wpzoom/components/portfolio/portfolio.php:124
+#: functions/wpzoom/components/portfolio/portfolio.php:126
+msgid "Category"
+msgstr ""
+
+#: functions/widgets/carousel.php:204
+msgid "Category (if selected above):"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:645
+msgid "Category Link"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:660
+msgid "Category Link Hover"
+msgstr ""
+
+#: functions/widgets/woocommerce-category.php:118
+msgid "Category to Display"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:215
+#: functions/customizer/customizer-data.php:233
+#: functions/widgets/call-to-action.php:132
+msgid "Center"
+msgstr ""
+
+#: functions/wpzoom/components/child-theme/options.php:6
+msgid "Child Theme"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:919
+msgid "Child Theme is active"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:897
+msgid "Child Theme is already installed"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:166
+msgid "Choose a demo"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:1738
+msgid "Choose a Style"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-tour.php:130
+msgid "Choose design"
+msgstr ""
+
+#: functions/wpzoom/components/portfolio/portfolio.php:137
+msgid "Choose from the most used categories"
+msgstr ""
+
+#: functions/wpzoom/components/post-slider/post-slider.php:86
+msgid "Choose Image"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-tour.php:131
+msgid ""
+"Choose the design which suits your needs. You can view a demo of the design "
+"or view pages directly here."
+msgstr ""
+
+#: single-listing.php:139 single-listing-full.php:136
+msgid "City:"
+msgstr ""
+
+#: functions/wpzoom/components/post-slider/post-slider.php:68
+msgid "Click and drag to reorder this slide"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:35
+msgid ""
+"Click on the <u>Load Demo Content</u> button to load the demo content for "
+"this theme. This is useful for seeing how the theme will look when filled "
+"with content.<br/><br/>"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:268
+msgid ""
+"Click on the blue button to load the default widget settings (as in theme "
+"demo).<br/><br/><strong>NOTICE:</strong> Some widgets may require additional "
+"configuration, so make sure to check the Widgets page after the set up "
+"process ends if you encounter any problems."
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:220
+msgid ""
+"Click on the blue button to start to regenerate the thumbnails for the "
+"images that were imported.<br/>By default only <strong>Featured "
+"Images</strong> will be regenerated, but you can change that in the <strong>"
+"Advanced Settings</strong> below.<br/>Skipping this step will result in some "
+"of the images appearing deformed or stretched."
+msgstr ""
+
+#. %s admin import page.
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:170
+#, php-format
+msgid ""
+"Click on the button below to load the demo content. This is useful for "
+"seeing how the theme will look like when filled with content. If the "
+"importer doesn&rsquo;t work for you, try importing the demo content <a "
+"href=\"%s\">manually</a>."
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:167
+msgid "Click on the demo you want to import."
+msgstr ""
+
+#: functions/wpzoom/components/featured-posts/wpzoom-featured-posts.php:249
+msgid ""
+"Click on this button if you want to reset the default order of the items"
+msgstr ""
+
+#: functions/wpzoom/options.php:192
+msgid ""
+"Click on this button to load the default widget settings (as in theme demo)."
+"</br><em><strong>NOTE:</strong> Click on <strong>Save all changes</strong> "
+"button to save other modifications before loading default widgets.</em>"
+msgstr ""
+
+#: functions/wpzoom/components/post-slider/post-slider.php:69
+msgid "Click to remove this slide"
+msgstr ""
+
+#: functions/wpzoom/components/theme-tour/theme-tour.php:199
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:148
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:196
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:367
+msgid "Close"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:39
+#: functions/customizer/customizer-data.php:49
+msgid "Color Scheme"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/controls.php:402
+msgid "Colors"
+msgstr ""
+
+#: functions/jetpack/plugin-enhancements.php:142
+msgid "Comics"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:1876
+#, php-format
+msgid "Comment %1$d was imported with author %2$d, but could not be found"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:1854
+#, php-format
+msgid "Comment %1$d was imported with parent %2$d, but could not be found"
+msgstr ""
+
+#: comments.php:47
+msgid "Comments are closed."
+msgstr ""
+
+#: content.php:29 wpzoom-slider.php:81
+msgid "Comments are Disabled"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:330
+msgid "Configure Front Page"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:306
+msgid "Configure Theme Menus"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:663
+msgid "Configure what Front Page displays"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:353
+msgid "Congratulations!"
+msgstr ""
+
+#. %s Theme name
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-tour.php:120
+#, php-format
+msgid ""
+"Congratulations! You have just installed %s. Please take the onboarding tour."
+msgstr ""
+
+#: functions/wpzoom/components/theme-tour/theme-tour.php:89
+#, php-format
+msgid ""
+"Congratulations! You have just installed %s. Please take the theme tour."
+msgstr ""
+
+#: functions/wpzoom/components/theme-tour/theme-tour.php:111
+msgid "Congratulations! Your theme is fully set up."
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:142
+msgid "Continue import"
+msgstr ""
+
+#: content.php:47
+msgid "Continue Reading &raquo;"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:1458
+msgid "Continue Reading Link"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:250
+msgid "Copy existing Widgets, Menus and Customizer options to Child Theme"
+msgstr ""
+
+#: functions/wpzoom/components/child-theme/options.php:34
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:403
+msgid "Copy existing Widgets, Menus and Customizer options to Child Theme?"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:1531
+#: functions/wpzoom/components/customizer/helpers/helpers.php:1671
+#, php-format
+msgid "Copyright &copy; %1$s %2$s"
+msgstr ""
+
+#: functions/wpzoom/components/updater/framework-updater.php:131
+msgid "Could not access filesystem."
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:1722
+#, php-format
+msgid "Could not find the author for \"%1$s\" (post #%2$d)"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:1870
+#, php-format
+msgid "Could not find the author for comment #%d"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:1848
+#, php-format
+msgid "Could not find the comment parent for comment #%d"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:1817
+#, php-format
+msgid "Could not find the menu object for \"%1$s\" (post #%2$d)"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:1699
+#, php-format
+msgid "Could not find the post parent for \"%1$s\" (post #%2$d)"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:131
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:1770
+#, php-format
+msgid "Could not update \"%1$s\" (post #%2$d) with mapped data"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:1895
+#, php-format
+msgid "Could not update comment #%d with mapped data"
+msgstr ""
+
+#: single-listing.php:140 single-listing-full.php:137
+msgid "County:"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:410
+#: functions/wpzoom/components/demo-importer/demo-importer.php:74
+msgid "Current"
+msgstr ""
+
+#: functions/wpzoom/options.php:32
+msgid "Custom Code"
+msgstr ""
+
+#: functions/jetpack/plugin-enhancements.php:179
+msgid "Custom Content Types module"
+msgstr ""
+
+#: functions/widgets/call-to-action.php:12
+msgid "Custom WPZOOM widget that displays a call-to-action message and button."
+msgstr ""
+
+#: functions/widgets/single-page.php:12
+msgid "Custom WPZOOM widget that displays a single specified static page."
+msgstr ""
+
+#: functions/widgets/woocommerce-category.php:12
+msgid "Custom WPZOOM widget that displays a single WooCommerce Category."
+msgstr ""
+
+#: functions/wpzoom/components/admin/admin.php:129
+msgid "Customize"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:376
+msgid "Customize Theme"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:149
+msgid "Customize theme"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer.php:286
+msgid "Customizer data is empty!"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:1703
+msgid "Cyrillic"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:1704
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:54
+msgid "Dark (new)"
+msgstr ""
+
+#: tribe-events/single-event.php:63 tribe-events/list/single-event.php:42
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer-log.php:543
+msgid "Date"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:287
+msgid "Deactivate"
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater.php:38
+msgid "Deactivate License"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:286
+msgid "Deactivating license key..."
+msgstr ""
+
+#: functions/wpzoom/options.php:150
+msgid "Debug"
+msgstr ""
+
+#: functions/wpzoom/options.php:154
+msgid "Debug info"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:52
+#: functions/widgets/subpages.php:177
+#: functions/wpzoom/components/customizer/control/background-gradient.php:68
+msgid "Default"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:98
+msgid "Default widgets have been successfully loaded."
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:290
+msgid "Default Widgets settings have been successfully imported!"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:262
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:410
+msgid "Delete \"Hello World!\" post and \"Sample Page\""
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:322
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:772
+msgid "Delete imported demo content"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer-log.php:563
+msgctxt "Delete log & backup files"
+msgid "Delete snapshot"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:214
+msgid "Delete Previously Imported Demo"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/importer.php:323
+#: functions/wpzoom/components/demo-importer/importer.php:437
+#, php-format
+msgid "Deleted \"%1$s\" (%2$s)"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/importer.php:383
+#, php-format
+msgid "Deleted user \"%s\""
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:166
+msgid "Deleting"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:368
+msgid ""
+"Deleting demo content&hellip;\n"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:112
+msgid "Demo Content"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:126
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:127
+msgid "Demo Content & License Key"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:156
+msgid "Demo content deleted!"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:155
+msgid "Demo content imported!"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:199
+msgid "Demo content importer"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:181
+msgid "Demo Import"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:40
+msgid "Demo Importer History"
+msgstr ""
+
+#: functions/wpzoom/components/theme-tour/theme-tour.php:133
+msgid "Demo successfully imported"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:43
+msgid "Demo title"
+msgstr ""
+
+#: footer.php:67
+#, php-format
+msgid "Designed by %s"
+msgstr ""
+
+#: functions/wpzoom/components/tracking/class-plugin-usage-tracker.php:921
+msgid "Details (optional)"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:1705
+msgid "Devanagari"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/control/background-gradient.php:83
+#: functions/wpzoom/components/customizer/control/background-gradient.php:84
+msgid "Diagonal"
+msgstr ""
+
+#: functions/wpzoom/components/tracking/class-plugin-usage-tracker.php:919
+msgid "Didn't work"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/control/background-gradient.php:73
+msgid "Direction"
+msgstr ""
+
+#: functions/wpzoom/options.php:56
+msgid "Disable and Remove Google Fonts Globally"
+msgstr ""
+
+#: functions/wpzoom/options.php:77
+msgid "Disable Block-based Widgets Screen"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:924
+msgid "Disable Debug Mode"
+msgstr ""
+
+#: functions/options.php:87
+msgid "Disable Featured Posts Re-Order Module"
+msgstr ""
+
+#: functions/wpzoom/options.php:142
+msgid ""
+"Disable sending information to WPZOOM about how this theme is used.<br/><br/>"
+"<strong>What information do we track?</strong><br>We track non-sensitive "
+"data about your WordPress site: theme in use, installed plugins, PHP version,"
+" etc. This information helps us improve our themes."
+msgstr ""
+
+#: functions/wpzoom/options.php:141
+msgid "Disable Usage Tracking"
+msgstr ""
+
+#: functions/wpzoom/components/helper-guide/wpzoom-helper-guide.php:26
+#: functions/wpzoom/components/helper-guide/wpzoom-helper-guide.php:27
+msgid "Disable WPZOOM Helper Guide"
+msgstr ""
+
+#: functions/wpzoom/components/admin/settings-page.php:521
+#: functions/wpzoom/components/admin/settings-page.php:522
+#: functions/wpzoom/components/admin/settings-page.php:523
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer-log.php:328
+msgid "Disabled"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-tour.php:225
+msgid "Dismiss"
+msgstr ""
+
+#: functions/widgets/testimonials.php:206
+msgid "Display author company"
+msgstr ""
+
+#: functions/widgets/testimonials.php:196
+msgid "Display author name"
+msgstr ""
+
+#: functions/widgets/testimonials.php:191
+msgid "Display author photo"
+msgstr ""
+
+#: functions/widgets/testimonials.php:201
+msgid "Display author position"
+msgstr ""
+
+#: functions/widgets/woocommerce-category.php:154
+msgid "Display Button"
+msgstr ""
+
+#: functions/widgets/jetpack-portfolio.php:185
+msgid "Display Category"
+msgstr ""
+
+#: functions/widgets/woocommerce-category.php:140
+msgid "Display Category Description"
+msgstr ""
+
+#: functions/widgets/jetpack-portfolio.php:179
+msgid "Display Excerpts"
+msgstr ""
+
+#: functions/widgets/subpages.php:217
+msgid "Display Featured Image as Background"
+msgstr ""
+
+#: functions/widgets/woocommerce-category.php:147
+msgid "Display Number of Products"
+msgstr ""
+
+#: functions/widgets/single-page.php:180
+msgid "Display Page Content"
+msgstr ""
+
+#: functions/widgets/subpages.php:207
+msgid "Display Page Excerpt"
+msgstr ""
+
+#: functions/widgets/recentposts.php:185
+msgid "Display post date"
+msgstr ""
+
+#: functions/widgets/recentposts.php:195
+msgid "Display post excerpt"
+msgstr ""
+
+#: functions/widgets/recentposts.php:190
+msgid "Display post thumbnail"
+msgstr ""
+
+#: functions/widgets/single-page.php:230 functions/widgets/subpages.php:212
+msgid "Display Read More button"
+msgstr ""
+
+#: functions/widgets/recentposts.php:200
+msgid "Display read more button"
+msgstr ""
+
+#: functions/widgets/jetpack-portfolio.php:192
+msgid "Display View All button"
+msgstr ""
+
+#: functions/widgets/subpages.php:12
+msgid "Displays a specific number of sub-pages from a parent page."
+msgstr ""
+
+#: functions/wpzoom/components/tracking/class-plugin-usage-tracker.php:826
+msgid "Do Not Allow"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:205
+#, php-format
+msgid ""
+"Do you want to erase previous demo content (%1$s) and then import selected "
+"(%2$s) one? <strong>After the erase the importing process will start "
+"automatically!</strong>"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:172
+msgid ""
+"Documentation is the place where you&rsquo;ll find the information needed to "
+"setup the theme quickly, and other details about theme-specific features."
+msgstr ""
+
+#: functions/widgets/single-page.php:199
+msgid "Don't display"
+msgstr ""
+
+#: functions/theme-guide-data.php:42
+msgid ""
+"Don't want to display your latest posts on homepage? <br/><br/>Create a <a "
+"href=\"post-new.php?post_type=page\">new page</a> and assign a special "
+"<strong>Page Template</strong> to it, depending on your needs (<a "
+"href=\"http://www.wpzoom.com/docs/page-templates/\" target=\"_blank\">view "
+"instructions</a>):<br/><ul><li><strong>Homepage (Widgetized)</strong> - <em>"
+"page template that includes multiple widget areas. Manage widgets located on "
+"this page from Widgets page or Customizer. </em></li><li><strong>Homepage "
+"(Page Builder)</strong> - <em>special page template for front page that "
+"integrates great with <strong>Unyson Page Builder</strong> and that displays "
+"a slideshow at the top.</em></li></ul>"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:100
+msgid "Done! - Demo content has been succesfully imported."
+msgstr ""
+
+#: functions/wpzoom/options.php:64
+msgid "Download & Host Google Fonts Locally"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer-log.php:561
+msgctxt "Download snapshot log file"
+msgid "Download log file"
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-video-background-on-hover.php:193
+msgid "Duration"
+msgstr ""
+
+#: single-listing.php:495 content-single.php:15 content-page.php:13
+#: content-jetpack-portfolio-single.php:9 content.php:32
+#: single-listing-full.php:491 page-templates/testimonials.php:15
+#: functions/template-tags.php:31
+msgid "Edit"
+msgstr ""
+
+#: functions/wpzoom/components/portfolio/portfolio.php:130
+msgid "Edit Category"
+msgstr ""
+
+#: functions/wpzoom/components/portfolio/portfolio.php:77
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: functions/custom-post-types.php:57
+msgid "Edit Slideshow Item"
+msgstr ""
+
+#: functions/custom-post-types.php:15
+msgid "Edit Testimonial"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:175
+msgid ""
+"Elementor is the leading website builder platform for professionals on "
+"WordPress."
+msgstr ""
+
+#. %s The type of meta
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:849
+#, php-format
+msgid "Elementor Meta should be an Array, %s given."
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:804
+msgid "Elementor Pages are empty!"
+msgstr ""
+
+#: comments.php:68
+msgid "Email Address"
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-giphy-controller.php:366
+msgid "Empty url or post_id"
+msgstr ""
+
+#: functions/wpzoom/options.php:57
+msgid ""
+"Enable this option to disable Google Fonts entirely. It will also remove "
+"Google Fonts registered by popular plugins such as Elementor, Beaver Builder."
+" <br/> Removing Google Fonts will make your website GDPR-compliant and the "
+"Page Speed may increase."
+msgstr ""
+
+#: functions/wpzoom/options.php:65
+msgid ""
+"Enable this option to download Google Fonts and host them locally. This will "
+"make your website GDPR-compliant, and your theme will continue using custom "
+"fonts without sending any visitor data to Google.<br/><br/><u><em>This "
+"feature is not available in all themes</em></u>"
+msgstr ""
+
+#: functions/wpzoom/components/admin/settings-page.php:521
+#: functions/wpzoom/components/admin/settings-page.php:522
+#: functions/wpzoom/components/admin/settings-page.php:523
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer-log.php:325
+msgid "Enabled"
+msgstr ""
+
+#: functions/wpzoom/options.php:118
+msgid ""
+"Enables or disables global wp-admin notification about new versions of "
+"framework. If previous option is disabled this one is irrelevant."
+msgstr ""
+
+#: functions/wpzoom/options.php:126
+msgid ""
+"Enables or disables global wp-admin notification about new versions of theme."
+msgstr ""
+
+#: functions/wpzoom/options.php:134
+msgid ""
+"Enables or disables page with all WPZOOM themes and displays a link to it "
+"under WPZOOM menu."
+msgstr ""
+
+#: functions/wpzoom/components/customizer/control/background-gradient.php:72
+msgid "End color"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/control/background-gradient.php:75
+msgid "End color opacity"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/control/background-gradient.php:77
+msgid "End location"
+msgstr ""
+
+#: functions/wpzoom/components/post-slider/post-slider.php:92
+msgid "Enter description (HTML allowed)&hellip;"
+msgstr ""
+
+#: functions/wpzoom/components/post-slider/post-slider.php:91
+msgid "Enter title"
+msgstr ""
+
+#: searchform.php:2
+msgid "Enter your keywords..."
+msgstr ""
+
+#: functions/wpzoom/components/customizer/setup.php:79
+#: functions/wpzoom/components/admin/settings-page.php:259
+msgid "Enter your License Key"
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater.php:35
+msgid ""
+"Enter your license key for this theme to enable <strong>theme "
+"updates</strong>."
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:162
+msgid "Enter your license key for this theme to enable theme updates"
+msgstr ""
+
+#. %s license account url.
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:160
+#, php-format
+msgid ""
+"Enter your license key to enable 1-click theme updates. You can find your "
+"license in <a href=\"%s\" target=\"_blank\">WPZOOM Members Area → "
+"Licenses</a>."
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:288
+msgid ""
+"Enter your license key to enable <strong>1-click theme updates</strong>. You "
+"can find your license in <a href=\"https://www.wpzoom."
+"com/account/licenses/\" target=\"_blank\">WPZOOM Members Area &rarr; "
+"Licenses</a>."
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:52
+msgid "Erase content"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:141
+msgid "Erase current content"
+msgstr ""
+
+#. %s: error code
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:483
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-license.php:486
+#, php-format
+msgid "Error %s"
+msgstr ""
+
+#: 404.php:9
+msgid "Error 404"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:174
+msgid "Error Processing the XML File!"
+msgstr ""
+
+#: functions/wpzoom/components/admin/settings-page.php:77
+msgid "Error: Demo Content can't be imported."
+msgstr ""
+
+#: functions/wpzoom/components/admin/settings-page.php:82
+msgid "Error: This feature doesn't work when a Child Theme is active!"
+msgstr ""
+
+#: functions/wpzoom/components/child-theme/options.php:22
+msgid ""
+"Even though using Child Themes is a recommended method to modify theme files,"
+" it’s your responsibility to keep it up-to-date and synced with the parent "
+"theme. A major update of the parent theme can easily break your website if "
+"you didn’t test your Child Theme against the new version on a local or "
+"staging environment before update."
+msgstr ""
+
+#: tribe-events/list/single-event.php:86
+msgid "Event Details"
+msgstr ""
+
+#: tribe-events/single-event.php:46 tribe-events/single-event.php:118
+msgid "Event Navigation"
+msgstr ""
+
+#: functions/widgets/recentposts.php:204
+msgid "Excerpt character limit:"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:972
+msgid "Expired License Key"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/setup.php:85
+#: functions/wpzoom/components/admin/settings-page.php:271
+msgid "Expired License Key!"
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater.php:44
+#, php-format
+msgid "Expires %s."
+msgstr ""
+
+#: functions/wpzoom/options.php:178
+msgid "Export Options"
+msgstr ""
+
+#: functions/wpzoom/options.php:179
+msgid ""
+"Export the options to another installation of this theme, or to keep a "
+"backup of your options. You can can also save your options in a new text "
+"document."
+msgstr ""
+
+#: functions/wpzoom/options.php:207
+msgid "Export Widgets"
+msgstr ""
+
+#: functions/wpzoom/options.php:208
+msgid "Export widgets to another installation of this theme."
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:186
+msgid "Facebook"
+msgstr ""
+
+#: functions/functions.php:598
+msgid "Facebook Profile URL"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:791
+#, php-format
+msgid "Failed resize: %d is an invalid image ID."
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/importer.php:312
+#, php-format
+msgid "Failed to delete \"%1$s\" (%2$s)"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/importer.php:287
+#, php-format
+msgid "Failed to delete \"%1$s\": Invalid post type %2$s"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/importer.php:425
+#, php-format
+msgid "Failed to delete %1$s %2$s"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:754
+#, php-format
+msgid "Failed to import \"%1$s\" (%2$s)"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:643
+#, php-format
+msgid "Failed to import \"%1$s\": Invalid post type %2$s"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:1565
+#, php-format
+msgid "Failed to import %1$s %2$s"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/importer.php:373
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:1412
+#, php-format
+msgid "Failed to import user \"%s\""
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-giphy-controller.php:372
+msgid "Failed to upload image"
+msgstr ""
+
+#: functions/wpzoom/components/updater/framework-updater.php:122
+msgid "Failed: Copy Failed"
+msgstr ""
+
+#: functions/wpzoom/components/updater/framework-updater.php:104
+msgid "Failed: Empty Archive"
+msgstr ""
+
+#: functions/wpzoom/components/updater/framework-updater.php:95
+msgid "Failed: Incompatible archive"
+msgstr ""
+
+#: functions/wpzoom/components/updater/framework-updater.php:113
+msgid "Failed: mkdir Failure"
+msgstr ""
+
+#: functions/post-options.php:147
+msgid "Feature in Homepage Slider"
+msgstr ""
+
+#: functions/jetpack/plugin-enhancements.php:115
+msgid "Featured Content"
+msgstr ""
+
+#: functions/widgets/single-page.php:197
+msgid "Featured Image/Video Position"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:603
+msgid "Featured Slider"
+msgstr ""
+
+#: functions/wpzoom/components/portfolio/walker-category-filter.php:31
+#, php-format
+msgid "Feed for all posts filed under %s"
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:345
+msgid "Follow @WPZOOM"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:184
+msgid "Follow us on social media for news and updates on all your theme needs."
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:183
+msgid "Follow WPZOOM"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:1383
+msgid "Font Family"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:1462
+msgid "Font Languages"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:1406
+msgid "Font Size"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:1422
+msgid "Font Style"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:666
+msgctxt "font style"
+msgid "Arial"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:672
+msgctxt "font style"
+msgid "Arial Black"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:726
+msgctxt "font style"
+msgid "Courier New"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:684
+msgctxt "font style"
+msgid "Georgia"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:678
+msgctxt "font style"
+msgid "Helvetica"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:696
+msgctxt "font style"
+msgid "Impact"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:720
+msgctxt "font style"
+msgid "Lucida Console"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:738
+msgctxt "font style"
+msgid "Monospaced"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:732
+msgctxt "font style"
+msgid "Palatino"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:654
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:660
+msgctxt "font style"
+msgid "Serif"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:702
+msgctxt "font style"
+msgid "Tahoma"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:690
+msgctxt "font style"
+msgid "Times New Roman"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:714
+msgctxt "font style"
+msgid "Trebuchet MS"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:708
+msgctxt "font style"
+msgid "Verdana"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:1437
+msgid "Font Weight"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:1075
+#: functions/customizer/customizer-data.php:1526
+msgid "Footer"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:1085
+msgid "Footer Background Color"
+msgstr ""
+
+#: functions/wpzoom/options.php:44
+msgid "Footer Code & Analytics"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:1536
+msgid "Footer Text"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:1115
+msgid "Footer Text Color"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:1504
+msgid "Footer Widget Title"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:1100
+msgid "Footer Widget Title Color"
+msgstr ""
+
+#: wpzoom-slider.php:126
+#, php-format
+msgid ""
+"For more information about adding posts to the slider, please <a "
+"href=\"%1$s\">read the documentation</a>"
+msgstr ""
+
+#: functions/wpzoom/components/admin/settings-page.php:231
+msgid "For more information:"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:1395
+msgid "Force selected font family to all panels."
+msgstr ""
+
+#: functions/wpzoom/components/tracking/class-plugin-usage-tracker.php:916
+msgid "Found a better plugin"
+msgstr ""
+
+#: functions/wpzoom/options.php:17
+msgid "Framework"
+msgstr ""
+
+#: functions/wpzoom/options.php:93
+msgid "Framework Generator Meta Tags"
+msgstr ""
+
+#: functions/wpzoom/options.php:89
+msgid "Framework Options"
+msgstr ""
+
+#: functions/wpzoom/wpzoom.php:168
+msgid "Framework Update"
+msgstr ""
+
+#: functions/wpzoom/options.php:109
+msgid "Framework Updater"
+msgstr ""
+
+#: functions/wpzoom/options.php:117
+msgid "Framework Updater Notification"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:163
+msgid "Full Width"
+msgstr ""
+
+#. Name of the template
+msgid "Full-width (Page Builder)"
+msgstr ""
+
+#. Name of the template
+msgid "Full-width (Unyson Builder)"
+msgstr ""
+
+#. Name of the template
+msgid "Full-width Page"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:244
+#: functions/wpzoom/components/customizer/controls.php:382
+msgid "General"
+msgstr ""
+
+#: functions/wpzoom/components/admin/settings-fields.php:417
+msgid "General Settings"
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:337
+msgid "Get a New Theme &rarr;"
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:395
+#, php-format
+msgid "Getting Started with %s"
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-giphy-controller.php:323
+msgid "Giphy can't respond."
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-giphy-controller.php:43
+msgid "GIPHY Settings"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:150
+msgid "Go ahead, customize the text, images and design to make it yours!"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:188
+msgid "Go back"
+msgstr ""
+
+#: functions/wpzoom/options.php:53
+msgid "Google Fonts"
+msgstr ""
+
+#: functions/wpzoom/components/admin/settings-fields.php:358
+msgid "Google Web Fonts"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:1706
+msgid "Greek"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:1707
+msgid "Greek Extended"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:56
+msgid "Green"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:586
+msgid "Hamburger Icon Color"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/controls.php:406
+msgid "Header"
+msgstr ""
+
+#: functions/wpzoom/options.php:36
+msgid "Header Code"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:174
+msgid "Header Options"
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-video-background-on-hover.php:129
+msgid ""
+"Here you can add a short video that will play automatically when hovering "
+"current Portfolio post in the Portfolio page or Portfolio widgets on the "
+"homepage."
+msgstr ""
+
+#: functions/wpzoom/options.php:37
+msgid ""
+"Here you can add scripts that will be added before the end of <code>&lt;"
+"head&gt;</code> tag."
+msgstr ""
+
+#: functions/wpzoom/components/portfolio/options.php:16
+msgid ""
+"Here you can edit URLs for Portfolio post type. Don't forget to flush rules "
+"after changing them."
+msgstr ""
+
+#: functions/widgets/recentposts.php:180
+msgid "Hide post title"
+msgstr ""
+
+#: single-listing.php:186 single-listing-full.php:183
+msgid "Home Summary"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:329
+msgid "Homepage "
+msgstr ""
+
+#. Name of the template
+msgid "Homepage (Page Builder)"
+msgstr ""
+
+#. Name of the template
+msgid "Homepage (Unyson Builder)"
+msgstr ""
+
+#. Name of the template
+msgid "Homepage (Widgetized)"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:1297
+msgid "Homepage Slider Button Text"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:1280
+msgid "Homepage Slider Text"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:1257
+msgid "Homepage Slider Title"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:1343
+msgid "Homepage Widget Title (1/3 Column)"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:1320
+msgid "Homepage Widget Title (Full-width)"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:692
+msgid "Homepage:"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/control/background-gradient.php:81
+msgid "Horizontal"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.wpzoom.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.wpzoom.com/themes/presence"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:108
+msgid ""
+"If any of these indicators are lower than recommended values, ask your "
+"hosting to increase them."
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:37
+#, php-format
+msgid ""
+"If the importer doesn't work for you, try importing the demo content "
+"%1$smanually%2$s."
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer.php:307
+msgid ""
+"If XMLReader is not available, it imports all other settings and only skips "
+"XML import. This creates an incomplete website. We should bail early and not "
+"import anything if this is not present."
+msgstr ""
+
+#: functions/wpzoom/components/child-theme/options.php:28
+msgid ""
+"If you don't check this option, you will have a chance to preview the Child "
+"Theme on the Appearance > Themes page before activating it. "
+msgstr ""
+
+#: functions/customizer/customizer-data.php:929
+msgid ""
+"If you have the Infinite Scroll feature enabled, you can change here the "
+"color of the \"Older Posts\" button. You can find more instructions in <a "
+"href=\"https://www.wpzoom.com/documentation/tempo/#infinite\" "
+"target=\"_blank\">Documentation</a>"
+msgstr ""
+
+#: functions/wpzoom/components/theme-tour/theme-tour.php:111
+msgid ""
+"If you need help with the theme or have a question get in touch with our "
+"Support Team. We'd love the opportunity to help you."
+msgstr ""
+
+#: functions/wpzoom/options.php:45
+msgid ""
+"If you want to add some tracking script to the footer, like Google Analytics,"
+" insert the complete tracking code here. The following code will be added to "
+"the footer before the closing <code>&lt;/body&gt;</code> tag."
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:163
+#, php-format
+msgid ""
+"If you want to receive updates for <strong>%1$s theme</strong>, please "
+"%2$senter your license key%3$s or %4$spurchase a new license%5$s if you "
+"don't have one yet."
+msgstr ""
+
+#. 1: theme name 2: admin license page 3: purchase license link
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-license.php:257
+#, php-format
+msgid ""
+"If you want to receive updates for <strong>%1$s theme</strong>, please "
+"<strong><a href=\"%2$s\">enter your license key</a></strong> or <strong><a "
+"href=\"%3$s\" target=\"_blank\">purchase a new license</a></strong> if you "
+"don't have one yet."
+msgstr ""
+
+#: functions/theme-guide-data.php:13
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:109
+msgid ""
+"If you’re installing the theme on a new site, installing the demo content is "
+"the best way to get familiarized. This feature can be found on the <a "
+"href=\"admin.php?page=wpzoom_options\" target=\"_blank\">Theme Options</a> "
+"page, in the <strong>Import/Export</strong> section."
+msgstr ""
+
+#: functions/wpzoom/components/post-slider/post-slider.php:74
+msgid "Image"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:929
+msgid "Image Editor doesn't support image resizing"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:96
+msgid "Image {1} of {2}"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/wordpress-importer/plugin.php:38
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and "
+"tags</strong> from a WordPress export (WXR) file."
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:143
+msgid "Import anyway"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/importers/wxr-importer/class-wpzoom-importer.php:439
+msgid "Import complete!"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:226
+msgid "Import Customizer Settings"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-widgets-import.php:89
+#: functions/wpzoom/components/demo-importer/class-wpzoom-widgets-import.php:292
+msgid "Import data could not be read. Please try a different file."
+msgstr ""
+
+#: functions/wpzoom/components/theme-tour/theme-tour.php:99
+msgid "Import Demo"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:168
+msgid "Import demo"
+msgstr ""
+
+#: functions/wpzoom/pages/admin.php:51
+#: functions/wpzoom/components/demo-importer/demo-importer.php:137
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-tour.php:181
+msgid "Import Demo Content"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:201
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-tour.php:190
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-tour.php:204
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:192
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:274
+msgid "Import demo content"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:158
+msgctxt "Import demo content done 100%"
+msgid "Imported demo content"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:160
+msgid "Import failed!"
+msgstr ""
+
+#: functions/wpzoom/options.php:170
+msgid "Import Options"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:232
+msgid "Import Template Options"
+msgstr ""
+
+#: functions/theme-guide-data.php:12
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:108
+msgid "Import the Demo Content"
+msgstr ""
+
+#: functions/wpzoom/options.php:199
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:220
+msgid "Import Widgets"
+msgstr ""
+
+#: functions/wpzoom/options.php:23
+msgid "Import/Export"
+msgstr ""
+
+#. %s required plugins.
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:945
+msgid "IMPORTANT"
+msgstr ""
+
+#: functions/wpzoom/components/child-theme/options.php:21
+#: functions/wpzoom/components/child-theme/options.php:22
+msgid "Important Notice"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-widgets-import.php:257
+#: functions/wpzoom/components/demo-importer/demo-importer.php:51
+#: functions/wpzoom/components/demo-importer/demo-importer.php:249
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:277
+msgid "Imported"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:777
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:1582
+#, php-format
+msgid "Imported \"%1$s\" (%2$s)"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:44
+msgid "Imported date"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-widgets-import.php:260
+msgid "Imported to Inactive"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:1427
+#, php-format
+msgid "Imported user \"%s\""
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:165
+msgid "Importing"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:200
+msgid ""
+"Importing the Demo Content will not delete your current posts, pages or "
+"anything else. The importing process can take up to 5 minutes or longer "
+"depending on your server configuration and the number of images included in "
+"the demo. Please do not leave this screen until you see “All done!” in the "
+"modal."
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:58
+msgid ""
+"Importing the Demo Content will not delete your current posts, pages or "
+"anything else. You can delete the demo content (posts, pages, menus) from "
+"your site by clicking <u>Erase content</u>.<br/><br/>\n"
+"                    The importing process can take up to <strong>5 "
+"minutes</strong> or longer depending on your server configuration and the "
+"number of images included in the demo. Please do not leave this screen until "
+"you see &ldquo;<strong><em>All done!</em></strong>&rdquo; in the box that "
+"will appear below."
+msgstr ""
+
+#: content-single.php:13
+msgid "in"
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:124
+msgid ""
+"In order to enable all the features from your theme, you’ll need to install "
+"and activate the required plugins such as <strong>Jetpack</strong> or "
+"<strong>WooCommerce</strong>, which are available for <strong>free</strong>."
+msgstr ""
+
+#: functions/theme-guide-data.php:28
+msgid ""
+"In order to enable all the features from your theme, you’ll need to install "
+"and activate the required plugins such as <strong>Jetpack</strong> or "
+"<strong>WooCommerce</strong>, which are available for <strong>free</strong>."
+"<br/>\n"
+"            <h4>General Plugins</h4><ul><li><a href=\"https://wordpress."
+"org/plugins/beaver-builder-lite-version/\" target=\"_blank\">Beaver "
+"Builder</a> <em>(Free)</em> - a simple and easy to use <strong>Page "
+"Builder</strong></li> <li><a href=\"https://wordpress.org/plugins/wpzoom-"
+"addons-for-beaver-builder/\" target=\"_blank\">Beaver Builder Addons by "
+"WPZOOM</a> <em>(Free)</em> - A suite of useful addons for Beaver Builder</li>"
+" <li><a href=\"https://wordpress.org/plugins/woocommerce/\" "
+"target=\"_blank\">WooCommerce</a> <em>(Free)</em> - popular <strong>"
+"eCommerce</strong> plugin</li><li><a href=\"https://wordpress."
+"org/plugins/social-icons-widget-by-wpzoom/\" target=\"_blank\">Social Icons "
+"Widget</a> <em>(Free)</em> - simple plugin to add social icons</li><li><a "
+"href=\"https://wordpress.org/plugins/mailpoet/\" target=\"_blank\">"
+"MailPoet</a> <em>(Free)</em> - create and send newsletters</li></ul>\n"
+"           <br /><hr /> <h4>Hotel Plugins</h4><ul><li><a href=\"https://1."
+"envato.market/ePB0D\" target=\"_blank\">HBook</a> <em>($39)</em> - powerful "
+"<strong>hotel booking system</strong></li> </ul>\n"
+"            <br /><hr /><h4>Music Plugins</h4><ul><li><a href=\"https:"
+"//wordpress.org/plugins/cue/\" target=\"_blank\">Cue Playlists</a> <em>(Free)"
+"</em> - create and manage audio playlists</li> <li><a href=\"https:"
+"//audiotheme.com/view/cuebar/\" target=\"_blank\">CueBar by AudioTheme</a> "
+"<em>($39 -  Get it FREE on this <a href=\"https://audiotheme.com/checkout/?"
+"add-to-cart=3610&coupon_code=wpzoom3610\" target=\"_blank\">link</a>)</em> - "
+"music bar on top or bottom of the site</li><li><a href=\"https://wordpress."
+"org/plugins/gigpress/\" target=\"_blank\">GigPress</a> - display and manage "
+"upcoming shows and tours</li></ul>\n"
+"            <br /><hr /><h4>Real Estate Plugins</h4><ul><li><a href=\"https:"
+"//wordpress.org/plugins/wp-listings/\" target=\"_blank\">IMPress Listings</a>"
+" <em>(Free)</em> - real estate listing management</li><li><a href=\"https:"
+"//wordpress.org/plugins/impress-agents/\" target=\"_blank\">IMPress "
+"Agents</a> <em>(Free)</em> - add agents profiles to real estate listings</li>"
+"<li><a href=\"https://wordpress.org/plugins/posts-to-posts/\" "
+"target=\"_blank\">Posts 2 Posts</a> <em>(Free)</em> - connect listings with "
+"agents</li></ul>\n"
+"            <br /><hr /><h4>Events Plugins</h4><ul><li><a href=\"https:"
+"//wordpress.org/plugins/the-events-calendar/\" target=\"_blank\">The Events "
+"Calendar</a> <em>(Free)</em> - one of the most popular events plugin</li>"
+"</ul>\n"
+"            "
+msgstr ""
+
+#. 1: plugin name(s).
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:196
+#, php-format
+msgid ""
+"In order to import the demo content correctly, please install the following "
+"required plugin: %1$s"
+msgid_plural ""
+"In order to import the demo content correctly, please install the following "
+"required plugins: %1$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:967
+msgid "Inactive License Key"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/setup.php:87
+#: functions/wpzoom/components/admin/settings-page.php:273
+msgid "Inactive License Key!"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:241
+msgid "Inactive required plugin"
+msgid_plural "Inactive required plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/wpzoom/options.php:94
+msgid ""
+"Includes information about theme and framework you use in meta tags along to "
+"WordPress ones, they are used just for information and doesn't impact your "
+"SEO."
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater.php:40
+#: functions/wpzoom/components/theme-updater/theme-updater.php:53
+msgid "Incorrect license key."
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-video-background-on-hover.php:198
+msgid "Incorrect URL or this Vimeo video is not available for Download."
+msgstr ""
+
+#: functions/customizer/customizer-data.php:956
+msgid "Individual Posts and Pages"
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-video-background-on-hover.php:191
+msgid "Insert Video"
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-giphy-controller.php:149
+msgid "Insert Video URL"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:187
+msgid "Instagram"
+msgstr ""
+
+#: functions/functions.php:607
+msgid "Instagram Username"
+msgstr ""
+
+#: functions/jetpack/plugin-enhancements.php:268
+msgid "Install"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-tour.php:153
+msgid "Install & Activate"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:267
+msgid "Install & activate"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:268
+msgid "Install & activate all"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-tour.php:144
+msgid "Install & Activate plugins"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:269
+msgid "Install & activate selected"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:713
+msgid "Install &amp; Activate"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:238
+#: functions/wpzoom/components/child-theme/options.php:14
+#: functions/wpzoom/components/child-theme/options.php:41
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:129
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:130
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:154
+msgid "Install Child Theme"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:246
+msgid "Install recommended plugin"
+msgid_plural "Install recommended plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/wpzoom/components/theme-tour/theme-tour.php:119
+msgid "Install Recommended Plugins"
+msgstr ""
+
+#: functions/theme-guide-data.php:27
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:123
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:164
+msgid "Install required plugins"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:281
+msgid "Installed"
+msgstr ""
+
+#: functions/wpzoom/components/tracking/class-plugin-usage-tracker.php:917
+msgid "Installed by mistake"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:1604
+msgid "Installed, Not Activated"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:270
+msgid "Installing..."
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:183
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:890
+msgid "Invalid .xml URL provided"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:453
+msgid "Invalid author mapping"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:1296
+msgid "Invalid download link."
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:931
+msgid "Invalid file type"
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-giphy-api.php:68
+msgid "Invalid image URL"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/setup.php:83
+#: functions/wpzoom/components/admin/settings-page.php:269
+msgid "Invalid License Key!"
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:533
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-license.php:546
+msgid "Invalid license."
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-giphy-controller.php:296
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-giphy-controller.php:316
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-giphy-controller.php:336
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-giphy-controller.php:359
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-giphy-controller.php:398
+msgid "Invalid nonce"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-license.php:319
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-license.php:389
+msgid "Invalid nonce."
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:839
+msgid "Invalid Post ID"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer.php:371
+msgid "Invalid site XML file!"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:675
+msgid "Invalid template design!"
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-video-background-on-hover.php:195
+msgid "Invalid video URL"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:94
+msgid "Is retina ready?"
+msgstr ""
+
+#: content-none.php:23
+msgid ""
+"It seems that we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:1427
+msgid "Italic"
+msgstr ""
+
+#: functions/wpzoom/components/featured-posts/wpzoom-featured-posts.php:419
+msgid "Items reordered"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:928
+msgid "Jetpack Infinite Scroll Button"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:945
+msgid "Jetpack Infinite Scroll Button Hover"
+msgstr ""
+
+#: functions/jetpack/plugin-enhancements.php:83
+msgid "Jetpack plugin"
+msgstr ""
+
+#: functions/wpzoom/components/tracking/class-plugin-usage-tracker.php:1022
+msgid "Just Deactivate"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:916
+msgid ""
+"Just get in touch with your service administrator and request them to enable "
+"XMLReader on your website. Once this is done you can try importing template "
+"again."
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:397
+msgid ""
+"Just installed a new theme and don't know where to start? We're here to help!"
+msgstr ""
+
+#: functions/wpzoom/components/portfolio/options.php:17
+#, php-format
+msgid ""
+"Just open the <a href=\"%s\">Permalinks</a> page and hit <b>Save Options</b>."
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:1708
+msgid "Khmer"
+msgstr ""
+
+#: single-listing.php:188 single-listing-full.php:185
+msgid "Kitchen Summary"
+msgstr ""
+
+#: functions/wpzoom/components/tracking/class-plugin-usage-tracker.php:914
+msgid "Lack of documentation"
+msgstr ""
+
+#: functions/widgets/single-page.php:212
+msgid "Landscape (default)"
+msgstr ""
+
+#: functions/wpzoom/components/dashboard/dashboard.php:10
+msgid "Latest Theme"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:1709
+msgid "Latin"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:1710
+msgid "Latin Extended"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/controls.php:390
+msgid "Layouts"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:176
+msgid "Learn more"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:182
+msgid "Learn WordPress today"
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:384
+msgid "Learn WordPress Today &raquo;"
+msgstr ""
+
+#: comments.php:82
+msgid "Leave a Comment"
+msgstr ""
+
+#: single-listing.php:491 single-listing-full.php:487
+msgid "Leave a comment"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:214
+#: functions/customizer/customizer-data.php:232
+#: functions/widgets/single-page.php:202
+#: functions/widgets/call-to-action.php:133
+msgid "Left"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:1507
+msgid "Letter Spacing (in px)"
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater.php:37
+msgid "License Action"
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater.php:50
+msgid ""
+"License is <strong>inactive</strong>. Click on the <strong>Activate "
+"Button</strong> to activate it."
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-license.php:202
+msgid ""
+"License is <strong>inactive</strong>. Click to <strong>Save &amp; "
+"Activate</strong> button to activate it."
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater.php:36
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:149
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:161
+msgid "License Key"
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater.php:49
+msgid "License key do not match."
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater.php:47
+#, php-format
+msgid "License key expired %s."
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater.php:48
+msgid "License key has expired."
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater.php:43
+msgid "License key is active."
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater.php:51
+msgid "License key is disabled."
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-license.php:623
+msgid "License key was deactivated"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:974
+msgctxt "License renew link"
+msgid "renew"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-license.php:346
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-license.php:412
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:435
+msgctxt "License status"
+msgid "Active"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-license.php:348
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-license.php:414
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:439
+msgctxt "License status"
+msgid "Inactive"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:969
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:974
+msgctxt "License text link"
+msgid "activate"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:964
+msgctxt "License text link"
+msgid "enter"
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater.php:45
+msgid "Lifetime License. "
+msgstr ""
+
+#: functions/customizer/customizer-data.php:53
+msgid "Light"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:1492
+msgid "Line Height (em)"
+msgstr ""
+
+#: functions/widgets/testimonials.php:211
+msgid "Link author company"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:332
+msgid "Link Color"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:347
+msgid "Link Color on Hover"
+msgstr ""
+
+#: functions/widgets/jetpack-portfolio.php:201
+msgid "Link for View All button"
+msgstr ""
+
+#: functions/widgets/single-page.php:225
+msgid "Link Page Title to Page"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:1042
+msgid "Links Color in Posts"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-tour.php:203
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:190
+msgid "Live preview"
+msgstr ""
+
+#: single-listing.php:190 single-listing-full.php:187
+msgid "Living Room"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:265
+msgid "Load Default Widget Settings"
+msgstr ""
+
+#: functions/wpzoom/options.php:191
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:282
+msgid "Load default widget settings"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:116
+#: functions/wpzoom/components/demo-importer/demo-importer.php:139
+msgid "Load Demo Content"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:273
+msgid "Load demo content"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:264
+msgid "Load Widgets"
+msgstr ""
+
+#: functions/wpzoom/pages/admin.php:9
+msgid "Loading"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:321
+msgid ""
+"Loading demo content&hellip;\n"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/controls.php:181
+msgid "Loading&hellip;"
+msgstr ""
+
+#: tribe-events/list/single-event.php:49
+msgid "Location"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer-log.php:544
+msgid "Log file"
+msgstr ""
+
+#: comments.php:81
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\">Log out?</a>"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:211
+msgid "Logo Align"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:287
+msgid "Logo Color"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:302
+msgid "Logo Color on Hover"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:170
+msgid ""
+"Looks like your host probably could not store XML file in /wp-content/ "
+"folder."
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:1480
+msgid "Lowercase"
+msgstr ""
+
+#: functions/functions.php:76 functions/customizer/customizer-data.php:470
+msgid "Main Menu"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:229
+msgid "Main Menu Align"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:480
+msgid "Main Menu Background"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:1219
+msgid "Main Menu Links"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:1238
+msgid "Main Menu Links (Mobile)"
+msgstr ""
+
+#: single-listing.php:192 single-listing-full.php:189
+msgid "Master Suite"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-tour.php:167
+msgid "Meet the requirements"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:459
+#: functions/customizer/customizer-data.php:526
+msgid "Menu Current Item"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:429
+#: functions/customizer/customizer-data.php:495
+msgid "Menu Item"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:444
+#: functions/customizer/customizer-data.php:511
+msgid "Menu Item Hover"
+msgstr ""
+
+#: functions/jetpack/plugin-enhancements.php:133
+msgid "Menus"
+msgstr ""
+
+#: comments.php:78
+msgid "Message"
+msgstr ""
+
+#: functions/widgets/call-to-action.php:113
+msgid "Message:"
+msgstr ""
+
+#: functions/wpzoom/options.php:11
+msgid "Miscellaneous"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:236
+msgid "Missing required plugin"
+msgid_plural "Missing required plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/functions.php:77
+msgid "Mobile Menu"
+msgstr ""
+
+#: functions/wpzoom/pages/news.php:11 functions/wpzoom/pages/themes.php:11
+msgid "More from WPZOOM"
+msgstr ""
+
+#: functions/wpzoom/pages/news.php:13
+msgid "More Themes"
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-self-hosted-controller.php:74
+msgid "MP4 (h.264) video URL"
+msgstr ""
+
+#: comments.php:61
+msgid "Name"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:177
+msgid "Need assistance?"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:178
+msgid ""
+"Need help setting up your theme or have a question? Get in touch with our "
+"Support Team. We&rsquo;d love the opportunity to help you."
+msgstr ""
+
+#: functions/theme-guide-data.php:50
+msgid ""
+"Need help setting up your theme or have a question? Get in touch with our "
+"Support Team. We'd love the opportunity to help you."
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:132
+msgid ""
+"Need help setting up your theme or have a question? Get in touch with our "
+"Support Team. We’d love the opportunity to help you."
+msgstr ""
+
+#: functions/wpzoom/components/theme-tour/theme-tour.php:111
+msgid "Need Help?"
+msgstr ""
+
+#: functions/theme-guide-data.php:49
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:131
+msgid "Need one-to-one Assistance?"
+msgstr ""
+
+#: functions/wpzoom/components/portfolio/portfolio.php:134
+msgid "New Category Name"
+msgstr ""
+
+#: functions/wpzoom/components/portfolio/portfolio.php:78
+msgid "New Portfolio Item"
+msgstr ""
+
+#: functions/custom-post-types.php:58
+msgid "New Slideshow Item"
+msgstr ""
+
+#: functions/custom-post-types.php:16
+msgid "New Testimonial"
+msgstr ""
+
+#: functions/wpzoom/components/admin/admin.php:137
+msgid "New Themes"
+msgstr ""
+
+#: functions/wpzoom/options.php:133
+msgid "New Themes Page"
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:370
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:180
+msgid "New to WordPress?"
+msgstr ""
+
+#: comments.php:35
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: functions/wpzoom/components/theme-tour/theme-tour.php:95
+#: functions/wpzoom/components/theme-tour/theme-tour.php:101
+#: functions/wpzoom/components/theme-tour/theme-tour.php:107
+#: functions/wpzoom/components/theme-tour/theme-tour.php:125
+#: functions/wpzoom/components/theme-tour/theme-tour.php:135
+#: functions/wpzoom/components/theme-tour/theme-tour.php:191
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-tour.php:226
+msgid "Next"
+msgstr ""
+
+#: pagination.php:12
+msgid "Next &rarr;"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:170
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:210
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:257
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:298
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:323
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:347
+msgid "Next Step"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:169
+msgctxt "Next step"
+msgid "Next"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer-log.php:401
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer-log.php:467
+msgid "No"
+msgstr ""
+
+#: comments.php:19
+msgid "No Comments"
+msgstr ""
+
+#: functions/wpzoom/pages/news.php:36
+#: functions/wpzoom/components/dashboard/dashboard.php:84
+msgid "No items"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/controls.php:182
+msgid "No matching fonts"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:1311
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: functions/wpzoom/components/portfolio/portfolio.php:81
+msgid "No portfolio items found"
+msgstr ""
+
+#: functions/wpzoom/components/portfolio/portfolio.php:82
+msgid "No portfolio items found in trash"
+msgstr ""
+
+#: functions/jetpack/plugin-enhancements.php:178
+msgid "no specific module needed"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-widgets-import.php:266
+msgid "No Title"
+msgstr ""
+
+#: functions/wpzoom/components/tracking/class-plugin-usage-tracker.php:877
+msgid "No, Thank You"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:1478
+msgid "None"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:1426
+#: functions/wpzoom/components/customizer/helpers/helpers.php:1441
+msgid "Normal"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:1600
+msgid "Not Installed"
+msgstr ""
+
+#: functions/wpzoom/components/tracking/class-plugin-usage-tracker.php:915
+msgid "Not the features I wanted"
+msgstr ""
+
+#: functions/wpzoom/components/child-theme/options.php:35
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:404
+msgid "Note:"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:206
+msgid ""
+"Note: It's recommended to Erase current demo content in order to prevent "
+"duplication of menus, posts, pages, terms, etc."
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:158
+msgid ""
+"Note: This action will not delete your own content, but only imported "
+"content!"
+msgstr ""
+
+#: content-none.php:10
+msgid "Nothing Found"
+msgstr ""
+
+#: functions/custom-post-types.php:19 functions/custom-post-types.php:61
+msgid "Nothing found"
+msgstr ""
+
+#: functions/custom-post-types.php:20 functions/custom-post-types.php:62
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-tour.php:182
+msgid "Now you are ready to import the demo content."
+msgstr ""
+
+#: functions/widgets/subpages.php:189
+msgid "Number of pages"
+msgstr ""
+
+#: content-single.php:11
+msgid "on"
+msgstr ""
+
+#: functions/wpzoom/components/tracking/class-plugin-usage-tracker.php:147
+msgid "Once Monthly"
+msgstr ""
+
+#: functions/wpzoom/components/tracking/class-plugin-usage-tracker.php:143
+msgid "Once Weekly"
+msgstr ""
+
+#: comments.php:19
+msgid "One Comment"
+msgstr ""
+
+#: functions/wpzoom/components/tracking/class-plugin-usage-tracker.php:918
+msgid "Only required temporarily"
+msgstr ""
+
+#: functions/wpzoom/components/theme-tour/theme-tour.php:105
+msgid "Open Customizer"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:711
+msgid "Open Reading settings page"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:179
+msgid "Open Support Desk"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:144
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:93
+msgid "Open Theme Setup"
+msgstr ""
+
+#: functions/post-options.php:60
+msgid "optional"
+msgstr ""
+
+#: functions/wpzoom/pages/admin.php:12
+msgid "Options successful saved"
+msgstr ""
+
+#: functions/widgets/subpages.php:175
+msgid "Order"
+msgstr ""
+
+#: functions/widgets/testimonials.php:216
+msgid "Order Randomly"
+msgstr ""
+
+#: functions/wpzoom/components/admin/settings-page.php:226
+msgid "Overview"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:918
+msgid "Page Navigation"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:189
+msgid "Page preview"
+msgstr ""
+
+#: functions/wpzoom/components/admin/admin.php:123
+msgid "Page Title"
+msgstr ""
+
+#: functions/widgets/single-page.php:173
+msgid "Page to Display:"
+msgstr ""
+
+#: functions/widgets/subpages.php:196
+msgid "Pages per Row"
+msgstr ""
+
+#: content-single.php:46 content-page.php:22
+msgid "Pages:"
+msgstr ""
+
+#: functions/wpzoom/components/post-slider/post-slider.php:82
+msgid "Paste embed code here..."
+msgstr ""
+
+#: content.php:47 wpzoom-slider.php:75 wpzoom-slider.php:107
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: functions/wpzoom/components/portfolio/options.php:14
+msgid "Permalinks"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:1819
+msgid "Permission error."
+msgstr ""
+
+#: functions/wpzoom/components/theme-tour/theme-tour.php:105
+msgid "Personalize your Theme"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:77
+msgid "PHP Maximum Execution Time (seconds)"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:92
+msgid "PHP Maximum Input Time (seconds)"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:87
+msgid "PHP Maximum Post Size"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:82
+msgid "PHP Maximum Upload Filesize"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:97
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:102
+msgid "PHP Version"
+msgstr ""
+
+#: functions/wpzoom/components/post-slider/post-slider.php:236
+msgid "Pick an Image for This Slide"
+msgstr ""
+
+#: functions/template-tags.php:54
+msgid "Pingback:"
+msgstr ""
+
+#. %1$s License tab url. %2$s WPZOOM Members Area -> Licenses
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:964
+#, php-format
+msgid ""
+"Please %1$s and activate your license key to import the demo content. You "
+"can find your license in the <a href=\"%2$s\" target=\"_blank\">Members Area "
+"→ License Keys</a>."
+msgstr ""
+
+#. %s License tab url.
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:969
+#, php-format
+msgid "Please %s your license key to import the demo content."
+msgstr ""
+
+#. %s update page link.
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:935
+#, php-format
+msgid ""
+"Please <a href=\"%s\" target=\"_blank\">update</a> them for a successful "
+"import."
+msgstr ""
+
+#. %s update page link.
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:940
+#, php-format
+msgid ""
+"Please <a href=\"%s\" target=\"_blank\">update</a> them for a successful "
+"import. Skipping this step might break the template design/feature."
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:926
+msgid ""
+"Please disable it to continue importing demo content. To do so, you can add "
+"the following code into the wp-config.php file."
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-license.php:514
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-license.php:602
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-license.php:678
+msgid "Please enter a value for license key."
+msgstr ""
+
+#: functions/functions.php:602
+msgid "Please enter your Facebook profile URL"
+msgstr ""
+
+#: functions/functions.php:611
+msgid "Please enter your Instagram username"
+msgstr ""
+
+#: functions/functions.php:593
+msgid "Please enter your Twitter username"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-tour.php:145
+msgid ""
+"Please install & activate all required and recommended plugins to enable all "
+"the features from imported demo content."
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-tour.php:168
+msgid ""
+"Please make sure you meet the required requirements and follow our "
+"recommendations. You can also skip our recommendations and start importing "
+"the demo content."
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:184
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:92
+msgid ""
+"Please note that the import process has not yet been completed! Click OK to "
+"stop the process. Click Cancel to resume the process."
+msgstr ""
+
+#. %s Parent theme name.
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:921
+#, php-format
+msgid "Please switch to the parent theme %s to import the demo content."
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:160
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:99
+msgid "Please wait, the process will start in a couple of seconds..."
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:282
+msgid "Plugin installation failed! The server returned: "
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:152
+msgid "Plugins"
+msgstr ""
+
+#: functions/wpzoom/components/portfolio/portfolio.php:128
+msgid "Popular Categories"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:623
+msgid "Popular Google Fonts"
+msgstr ""
+
+#: functions/wpzoom/components/portfolio/portfolio.php:73
+#: functions/wpzoom/components/portfolio/portfolio.php:86
+msgid "Portfolio"
+msgstr ""
+
+#. Name of the template
+msgid "Portfolio (Jetpack)"
+msgstr ""
+
+#: functions/wpzoom/components/portfolio/options.php:30
+msgid "Portfolio category (taxonomy) slug"
+msgstr ""
+
+#: functions/wpzoom/components/portfolio/portfolio.php:72
+#: functions/wpzoom/components/portfolio/portfolio.php:74
+msgid "Portfolio Item"
+msgstr ""
+
+#: functions/wpzoom/components/portfolio/portfolio.php:71
+#: functions/wpzoom/components/portfolio/portfolio.php:83
+msgid "Portfolio Items"
+msgstr ""
+
+#: functions/wpzoom/components/portfolio/options.php:6
+msgid "Portfolio Options"
+msgstr ""
+
+#: functions/wpzoom/components/portfolio/options.php:22
+msgid "Portfolio post slug"
+msgstr ""
+
+#: functions/functions.php:290 functions/jetpack/plugin-enhancements.php:160
+msgid "Portfolios"
+msgstr ""
+
+#: functions/widgets/single-page.php:213
+msgid "Portrait"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:784
+#, php-format
+msgid "Post %1$d remapped to %2$d"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:1729
+#, php-format
+msgid "Post %1$d was imported with author \"%2$s\", but could not be found"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:1824
+#, php-format
+msgid ""
+"Post %1$d was imported with object \"%2$d\" of type \"%3$s\", but could not "
+"be found"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:1706
+#, php-format
+msgid "Post %1$d was imported with parent %2$d, but could not be found"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:1757
+#, php-format
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr ""
+
+#: functions/customizer/customizer-data.php:817
+msgid "Post Category"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:832
+msgid "Post Category Hover"
+msgstr ""
+
+#: comments.php:84
+msgid "Post Comment"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:675
+#: functions/customizer/customizer-data.php:847
+#: functions/customizer/customizer-data.php:981
+msgid "Post Meta"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:690
+#: functions/customizer/customizer-data.php:862
+#: functions/customizer/customizer-data.php:997
+msgid "Post Meta Link"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:705
+#: functions/customizer/customizer-data.php:877
+#: functions/customizer/customizer-data.php:1012
+msgid "Post Meta Link Hover"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/controls.php:394
+msgid "Post Options"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:613
+#: functions/customizer/customizer-data.php:787
+msgid "Post Title"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:629
+#: functions/customizer/customizer-data.php:802
+msgid "Post Title Hover"
+msgstr ""
+
+#: functions/custom-post-types.php:53
+msgctxt "post type general name"
+msgid "Slideshow"
+msgstr ""
+
+#: functions/custom-post-types.php:11
+msgctxt "post type general name"
+msgid "Testimonials"
+msgstr ""
+
+#: functions/custom-post-types.php:54
+msgctxt "post type singular name"
+msgid "Slideshow Item"
+msgstr ""
+
+#: functions/custom-post-types.php:12
+msgctxt "post type singular name"
+msgid "Testimonial"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:1027
+msgid "Post/Page Text Color"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:966
+msgid "Post/Page Title"
+msgstr ""
+
+#: functions/widgets/latest-products.php:199
+#: functions/widgets/featured-products.php:164
+#: functions/widgets/carousel.php:166
+msgid "posts"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:700
+msgid "Posts page:"
+msgstr ""
+
+#: functions/widgets/carousel.php:195
+msgid "Posts to Display:"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:174
+msgid "Powered by Elementor"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:272
+msgid "Preparing demo content..."
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:271
+msgid "Preparing preview"
+msgstr ""
+
+#. Name of the theme
+msgid "Presence"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Presence is a professional WordPress Theme, that suits perfect for different "
+"type of websites: Business, Porttfolio, Real Estate, Hotel, Church, Fitness, "
+"Blog and much more."
+msgstr ""
+
+#: functions/wpzoom/options.php:102
+msgid ""
+"Preview fonts in typography option dropdown. Disable this if this page takes "
+"long to load or you never need that."
+msgstr ""
+
+#: tribe-events/single-event.php:71
+msgid "Price"
+msgstr ""
+
+#: single-listing.php:130 single-listing.php:132 single-listing-full.php:127
+#: single-listing-full.php:129
+msgid "Price:"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:1772
+msgid "Problem fetching style kit."
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:256
+msgid "Process Elementor Pages"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:164
+msgid "Process Interrupted!"
+msgstr ""
+
+#. %1$s The page title, %2$s Page ID
+#: functions/wpzoom/components/demo-importer/class-wpzoom-elementor-pages.php:81
+#, php-format
+msgid "Processed Elementor Page: %1$s (ID: %2$d)"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:275
+msgid "Processing demo content"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-tour.php:195
+msgid "Quick actions"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:148
+msgid "Quick Start"
+msgstr ""
+
+#: functions/functions.php:137
+msgid "Re-order"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:171
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:173
+msgid "Read documentation"
+msgstr ""
+
+#: functions/widgets/subpages.php:85 functions/widgets/subpages.php:109
+#: functions/widgets/recentposts.php:112
+msgid "Read More"
+msgstr ""
+
+#: content.php:37
+msgid "Read More &rarr;"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:892
+msgid "Read More Link"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:907
+msgid "Read More Link Hover"
+msgstr ""
+
+#: functions/theme-guide-data.php:4
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:100
+msgid "Read Theme Documentation"
+msgstr ""
+
+#: content-none.php:14
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: functions/customizer/customizer-data.php:777
+#: functions/widgets/recentposts.php:20
+msgid "Recent Posts"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:409
+#: functions/wpzoom/components/demo-importer/demo-importer.php:73
+#: functions/wpzoom/components/demo-importer/demo-importer.php:269
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:846
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:1589
+msgid "Recommended"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:57
+msgid "Red"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:216
+msgid "Regen. Thumbnails"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:268
+msgid "Regenerate all thumbnails"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:159
+msgctxt "Regenerate attachments done 100%"
+msgid "Regenerated attachments"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:274
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:417
+msgid "Regenerate only featured images"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:217
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:241
+msgid "Regenerate Thumbnails"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:269
+msgid ""
+"Regenerate Thumbnails allows you to regenerate all thumbnail sizes for one "
+"or more images that have been uploaded to your Media Library.<br/>Note: If "
+"you enable this option, the importing process will take more time."
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:1651
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:1662
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:1638
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: functions/widgets/single-page.php:191
+msgid "Remove Formatting"
+msgstr ""
+
+#: functions/wpzoom/components/post-slider/post-slider.php:87
+msgid "Remove Image"
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater.php:41
+msgid "Renew?"
+msgstr ""
+
+#: functions/template-tags.php:30
+msgid "Reply"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:269
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:843
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:1586
+msgid "Required"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer-log.php:95
+msgid "Required File Permissions to import the templates are missing."
+msgstr ""
+
+#: functions/wpzoom/components/customizer/controls.php:183
+msgid "Reset"
+msgstr ""
+
+#: functions/wpzoom/components/featured-posts/wpzoom-featured-posts.php:248
+msgid "Reset Order"
+msgstr ""
+
+#: functions/wpzoom/pages/admin.php:86
+#: functions/wpzoom/components/admin/settings-page.php:262
+msgid "Reset settings"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/controls.php:184
+msgid "Reset the below values to their defaults"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer-log.php:562
+msgctxt "Restore snapshot backup"
+msgid "Restore backup"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:898
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:937
+msgid "Retry"
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-giphy-controller.php:348
+msgid "Return thumbnail"
+msgstr ""
+
+#: functions/widgets/single-page.php:203
+#: functions/widgets/call-to-action.php:130
+msgid "Right"
+msgstr ""
+
+#. for when debug logging is off
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:1684
+#, php-format
+msgid "Running post-processing for post %d"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:288
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:289
+msgid "Save & Activate"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:163
+msgid "Save &amp; Activate"
+msgstr ""
+
+#: functions/wpzoom/pages/admin.php:80
+msgid "Save all changes"
+msgstr ""
+
+#: functions/wpzoom/components/featured-posts/wpzoom-featured-posts.php:247
+msgid "Save Order"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:285
+msgid "Saving & activating license key..."
+msgstr ""
+
+#: searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: functions/wpzoom/components/portfolio/portfolio.php:127
+msgid "Search Categories"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:556
+msgid "Search Icon Background on Hover"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:541
+msgid "Search Icon Color"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:571
+msgid "Search Icon Color on Hover"
+msgstr ""
+
+#: functions/wpzoom/components/portfolio/portfolio.php:80
+msgid "Search Portfolio"
+msgstr ""
+
+#: search.php:8
+msgid "Search Results for"
+msgstr ""
+
+#: functions/custom-post-types.php:60
+msgid "Search Slideshow"
+msgstr ""
+
+#: functions/custom-post-types.php:18
+msgid "Search Testimonials"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:278
+msgid "Select"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:279
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:714
+msgid "Select all"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:138
+msgid "Select Demo Content"
+msgstr ""
+
+#: functions/widgets/subpages.php:170
+msgid "Select parent page:"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-tour.php:161
+msgid "Select recommended"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:229
+msgid "Select the content you want to import:"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:159
+msgid "Select Theme Layout"
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-video-background-on-hover.php:132
+msgid "Select Video Source:"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:194
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:276
+msgid "Selected"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:191
+msgid "Selected template:"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:257
+msgid ""
+"Selecting this option will process all Elementor pages and replace WPForms "
+"shortcodes and demo site URL with your site URL. <br />Note: If you enable "
+"this option, the importing process may take longer."
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-video-background-on-hover.php:136
+msgid "Self-Hosted Video"
+msgstr ""
+
+#: functions/wpzoom/components/portfolio/portfolio.php:135
+msgid "Separate categories with commas"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:408
+#: functions/wpzoom/components/demo-importer/demo-importer.php:72
+msgid "Server Environment"
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-giphy-controller.php:48
+msgid ""
+"Set default video on hover duration range between<strong>  1 and 15 </strong>"
+"seconds."
+msgstr ""
+
+#: functions/wpzoom/components/tracking/class-plugin-usage-tracker.php:913
+msgid "Set up is too difficult"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:203
+msgid "Setup homepage"
+msgstr ""
+
+#: functions/theme-guide-data.php:41
+msgid "Setup Homepage Template"
+msgstr ""
+
+#: functions/widgets/latest-products.php:198
+#: functions/widgets/featured-products.php:163
+#: functions/widgets/carousel.php:165
+msgid "Show"
+msgstr ""
+
+#: functions/widgets/carousel.php:186
+msgid "Show Category"
+msgstr ""
+
+#: functions/widgets/carousel.php:191
+msgid "Show Date"
+msgstr ""
+
+#: functions/widgets/latest-products.php:213
+#: functions/widgets/featured-products.php:178
+#: functions/widgets/carousel.php:180
+msgid "Show Navigation Dots"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:197
+msgid "Show Search Form"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:79
+msgid "Show Tagline"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:183
+msgid "Show Top Navigation Menu"
+msgstr ""
+
+#: functions/widgets/testimonials.php:220 functions/widgets/recentposts.php:174
+msgid "Show:"
+msgstr ""
+
+#. Name of the template
+msgid "Sidebar on the left"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:1481
+msgid "Sidebar Widget Title"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:1366
+msgid "Single Page Title"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:1389
+msgid "Single Post Title"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:317
+#: functions/customizer/customizer-data.php:1178
+msgid "Site Description"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-widgets-import.php:154
+msgid "Site does not support widget"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:70
+msgid "Site Identity"
+msgstr ""
+
+#: functions/jetpack/plugin-enhancements.php:106
+msgid "Site Logo"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:112
+#: functions/customizer/customizer-data.php:1155
+msgid "Site Title"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer-log.php:546
+msgid "Size"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:805
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:855
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:891
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:930
+#, php-format
+msgid "Skip image (ID %1$s)"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:231
+msgid "Skip recommended notice"
+msgid_plural "Skip recommended notices"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-tour.php:176
+msgid "Skip recommended notices"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:140
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:227
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:275
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:316
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:340
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:798
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:848
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:884
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:923
+msgid "Skip Step"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:738
+#, php-format
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr ""
+
+#: functions/post-options.php:68
+msgid "Slide Button"
+msgstr ""
+
+#: functions/post-options.php:60
+msgid "Slide URL"
+msgstr ""
+
+#. $id
+#: functions/wpzoom/components/post-slider/post-slider.php:35
+msgid "Slider"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:26
+msgid "Slider Style 1"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:27
+msgid "Slider Style 2"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:28
+msgid "Slider Style 3"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:14
+#: functions/customizer/customizer-data.php:24
+msgid "Slider Styles"
+msgstr ""
+
+#: functions/custom-post-types.php:55
+msgctxt "slideshow item"
+msgid "Add New"
+msgstr ""
+
+#. %1$s Date, %2$s Time
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-utils.php:180
+#, php-format
+msgctxt "Snapshot file date and time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions/jetpack/plugin-enhancements.php:124
+msgid "Social Menu"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:173
+msgid ""
+"Some of the files required during the import process are missing.<br/><br/>"
+"Please try again after some time."
+msgstr ""
+
+#: functions/wpzoom/components/child-theme/child-theme.php:358
+msgid "Something went wrong"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:284
+msgid ""
+"Something went wrong when trying to install & activate plugins! Please, try "
+"again later."
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:290
+msgid ""
+"Something went wrong when trying to save & activate license key! Please, try "
+"again later."
+msgstr ""
+
+#: functions/wpzoom/components/tracking/class-plugin-usage-tracker.php:910
+msgid "Sorry to see you go"
+msgstr ""
+
+#: content-none.php:18
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:615
+msgid "Standard Fonts"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/control/background-gradient.php:71
+msgid "Start color"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/control/background-gradient.php:74
+msgid "Start color opacity"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:208
+msgctxt "Start importing demo modal"
+msgid "Start importing"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/control/background-gradient.php:76
+msgid "Start location"
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-video-background-on-hover.php:192
+msgid "Start Time"
+msgstr ""
+
+#: single-listing.php:141 single-listing-full.php:138
+msgid "State:"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:45
+msgid "Status"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/controls.php:386
+#: functions/wpzoom/components/customizer/helpers/helpers.php:1747
+msgid "Style Kits"
+msgstr ""
+
+#: functions/wpzoom/components/tracking/class-plugin-usage-tracker.php:1022
+msgid "Submit and Deactivate"
+msgstr ""
+
+#: functions/wpzoom/components/tracking/class-plugin-usage-tracker.php:962
+msgid "Submitting form"
+msgstr ""
+
+#: functions/wpzoom/pages/news.php:14
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:154
+msgid "Support"
+msgstr ""
+
+#: functions/wpzoom/pages/admin.php:47
+msgid "Support Desk"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:1394
+msgid "Sync all fonts"
+msgstr ""
+
+#: functions/widgets/carousel.php:232
+msgid "Tag slugs (if selected above, separated by comma \",\"):"
+msgstr ""
+
+#: functions/widgets/carousel.php:198
+msgid "Tag(s)"
+msgstr ""
+
+#: single-listing.php:178 single-listing-full.php:175
+msgid "Tagged Features:"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:130
+msgid "Tagline"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:673
+msgid "Template data are empty!"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:575
+msgid "Template design was not found"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:202
+msgid "Template menus"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer.php:427
+msgid "Template options are empty!"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:1589
+#, php-format
+msgid "Term %1$d remapped to %2$d"
+msgstr ""
+
+#: functions/custom-post-types.php:13
+msgctxt "testimonial item"
+msgid "Add a New"
+msgstr ""
+
+#. Name of the template
+#: functions/jetpack/plugin-enhancements.php:151
+msgid "Testimonials"
+msgstr ""
+
+#: functions/widgets/testimonials.php:221
+msgid "testimonials"
+msgstr ""
+
+#: functions/widgets/call-to-action.php:128
+msgid "Text Alignment"
+msgstr ""
+
+#: functions/widgets/woocommerce-category.php:158
+msgid "Text for button:"
+msgstr ""
+
+#: functions/widgets/jetpack-portfolio.php:196
+msgid "Text for View All button"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:1474
+msgid "Text Transform"
+msgstr ""
+
+#: functions/wpzoom/components/tracking/class-plugin-usage-tracker.php:814
+#, php-format
+msgid ""
+"Thank you for installing our %1$s. We'd like your permission to track its "
+"usage on your site and subscribe you to our newsletter. We won't record any "
+"sensitive data, only information regarding the WordPress environment and "
+"%1$s settings, which we will use to help us make improvements to the %1$s. "
+"Tracking is completely optional."
+msgstr ""
+
+#: functions/wpzoom/components/tracking/class-plugin-usage-tracker.php:808
+#, php-format
+msgid ""
+"Thank you for installing our WPZOOM %1$s. We would like to track its usage "
+"on your site. We don't record any sensitive data, only information regarding "
+"the WordPress environment and %1$s settings (WordPress version, PHP version, "
+"etc.), which we will use to help us make improvements to the %1$s. Tracking "
+"is completely optional."
+msgstr ""
+
+#: functions/wpzoom/components/tracking/class-plugin-usage-tracker.php:866
+#, php-format
+msgid ""
+"Thank you for opting in to tracking. Would you like to receive occasional "
+"news about this %s, including details of new features and special offers?"
+msgstr ""
+
+#: functions/jetpack/plugin-enhancements.php:82
+#, php-format
+msgid ""
+"The %1$s is necessary to use some of this theme&rsquo;s features, including: "
+msgstr ""
+
+#. %s The .zip file name
+#: functions/wpzoom/components/child-theme/child-theme.php:275
+#, php-format
+msgid "The .zip file %s doesn't exist."
+msgstr ""
+
+#. %s The .zip file name
+#: functions/wpzoom/components/child-theme/child-theme.php:265
+#, php-format
+msgid "The .zip file %s doesn't exists."
+msgstr ""
+
+#. %s The child theme slug
+#: functions/wpzoom/components/child-theme/child-theme.php:360
+#, php-format
+msgid "The child theme %s doesn't exists"
+msgstr ""
+
+#. %s The child theme slug
+#: functions/wpzoom/components/child-theme/child-theme.php:319
+#: functions/wpzoom/components/child-theme/child-theme.php:342
+#, php-format
+msgid "The child theme %s was activated"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:151
+msgid "The demo content has been successfully deleted!"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:150
+msgid "The demo content has been successfully imported!"
+msgstr ""
+
+#. %s The child theme slug
+#: functions/wpzoom/components/child-theme/child-theme.php:297
+#, php-format
+msgid "The existing child theme %s was activated"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:393
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#. 1: plugin name(s).
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:208
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s"
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. 1: plugin name(s).
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:226
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s"
+msgid_plural "The following recommended plugins are currently inactive: %1$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. 1: plugin name(s).
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:220
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s"
+msgid_plural "The following required plugins are currently inactive: %1$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:167
+msgctxt "The imported progress percentage"
+msgid "Imported"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:921
+msgid ""
+"The importer works only the parent theme is active. It doesn’t support Child "
+"Themes or themes which folders were renamed to something different."
+msgstr ""
+
+#: functions/wpzoom/components/admin/settings-page.php:83
+msgid ""
+"The importer works only with new copies of our themes. It doesn’t support "
+"Child Themes or themes which folders were renamed to something different."
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:839
+#, php-format
+msgid "The originally uploaded image file cannot be found at %s"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:168
+msgctxt "The regenerate attachments progress percentage"
+msgid "Regenerated"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:930
+msgid ""
+"The regenerate attachments tool won't be able to do anything because your "
+"server doesn't support image editing which means that WordPress can't create "
+"thumbnail images. Please ask your host to install the Imagick or GD PHP "
+"extensions."
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:359
+msgid "The theme has been successfully configured!"
+msgstr ""
+
+#: functions/wpzoom/components/child-theme/child-theme.php:266
+msgid "The zip file could not be found in the parent theme directory."
+msgstr ""
+
+#: functions/wpzoom/pages/admin.php:42
+msgid "Theme Documentation"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:150
+msgid "Theme Layout"
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater.php:34
+msgid "Theme License"
+msgstr ""
+
+#. $strings['theme-license'],
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:245
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:246
+msgid "Theme License + Quick Start"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:305
+msgid "Theme Menus"
+msgstr ""
+
+#: functions/wpzoom/wpzoom.php:158 functions/wpzoom/options.php:166
+#: functions/wpzoom/components/admin/admin.php:125
+msgid "Theme Options"
+msgstr ""
+
+#: functions/wpzoom/pages/news.php:15
+msgid "Theme Showcase"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:151
+msgid "Themes"
+msgstr ""
+
+#: functions/wpzoom/options.php:125
+msgid "Themes Updater Notification"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer-log.php:569
+msgid ""
+"There are no created snapshots. The snapshot include log and backup files "
+"which are automatically generated on demo import process."
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:716
+msgid "There are no required plugins&hellip;"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:796
+msgid "There are no theme designs&hellip;"
+msgstr ""
+
+#. 1: plugin name(s).
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:214
+#, php-format
+msgid "There is an update available for: %1$s"
+msgid_plural "There are updates available for the following plugins: %1$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer.php:350
+msgid "There was an error downloading the XML file."
+msgstr ""
+
+#: functions/wpzoom/components/child-theme/child-theme.php:273
+msgid "There was an error unzipping the file."
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:171
+msgid "There was an error while importing the content."
+msgstr ""
+
+#. %s: theme name
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:542
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-license.php:556
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: functions/wpzoom/options.php:110
+msgid ""
+"This enables update features for WPZOOM framework such as menu in wp-admin "
+"and also global notifications about new updates."
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-giphy-controller.php:141
+msgid ""
+"This feature is powered by <strong>GIPHY</strong> and works only with "
+"YouTube videos shorter than <strong>15 minutes</strong> and Vimeo videos "
+"which are available for Download. <a href=\"https://www.wpzoom."
+"com/docs/adding-background-videos-on-hover/\" target=\"_blank\">View more "
+"details</a>"
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-self-hosted-controller.php:111
+msgid ""
+"This format is optional for old versions of <strong>Mozilla Firefox</strong> "
+"that don't support <strong>MP4</strong> (v.21 and older)."
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-giphy-controller.php:142
+msgid ""
+"This is an experimental feature and some videos may take up to 30 seconds to "
+"be processed."
+msgstr ""
+
+#: functions/wpzoom/components/customizer/controls.php:186
+msgid "This is how selected Font Family will look like on your website."
+msgstr ""
+
+#: functions/wpzoom/components/video-thumb.php:236
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-video-background-on-hover.php:190
+msgid "This is the Featured Image"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer-log.php:97
+msgid "This is usually due to inconsistent file permissions."
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater.php:52
+msgid ""
+"This license is inactive on this website. Click on the <strong>Activate "
+"Button</strong> to activate it."
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-license.php:203
+msgid ""
+"This license is inactive on this website. Click to <strong>Save &amp; "
+"Activate</strong> button to activate it."
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:251
+#: functions/wpzoom/components/child-theme/options.php:35
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:404
+msgid ""
+"This option replaces the Child Theme's existing Widgets, Menus and "
+"Customizer options with those from the Parent Theme. You should only need to "
+"use this option the first time you install a Child Theme."
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:275
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:418
+msgid ""
+"This option will regenerate only featured images on your site. This is a "
+"good feature if you have a lot of images uploaded, but want to rebuild only "
+"post thumbnails."
+msgstr ""
+
+#: comments.php:3
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#. 1: plugin name(s).
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:202
+#, php-format
+msgid "This theme recommends the following plugin: %1$s"
+msgid_plural "This theme recommends the following plugins: %1$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:678
+msgid ""
+"This theme works best when displaying a static page as your front page. We "
+"recommend you to select <strong>\"Homepage\"</strong> and <strong>"
+"\"Blog\"</strong> pages from the lists below."
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:666
+msgid ""
+"This theme works best when displaying your <strong>Latest Posts</strong> on "
+"the front page."
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-video-background-on-hover.php:197
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-giphy-controller.php:246
+msgid ""
+"This video is not supported. If you're the owner of the video, please make "
+"it available for Download (Vimeo only)."
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/importer.php:115
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:168
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:243
+#, php-format
+msgid ""
+"This WXR file (version %1$s) is newer than the importer (version %2$s) and "
+"may not be supported. Please consider updating."
+msgstr ""
+
+#: functions/widgets/single-page.php:210
+msgid "Thumbnail Aspect Ratio:"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:97
+msgid "Thumbnails have been successfully regenerated"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:249
+msgid "Thumbnails have been successfully regenerated!"
+msgstr ""
+
+#: functions/post-options.php:72 functions/widgets/latest-products.php:172
+#: functions/widgets/featured-products.php:158
+#: functions/widgets/carousel.php:160
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer-log.php:542
+msgid "Title"
+msgstr ""
+
+#: functions/widgets/single-page.php:220
+msgid ""
+"To display a video in the widget, make sure to insert the <strong>embed "
+"code</strong> in the <strong>Excerpt</strong> field of the selected page."
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:165
+msgid ""
+"To enable all the features from your theme, you&rsquo;ll need to install and "
+"activate the required plugins such as Elementor or WooCommerce, which are "
+"available for free."
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:172
+msgid ""
+"To import content, WordPress needs to store XML file in /wp-content/ folder. "
+"Please get in touch with your hosting provider."
+msgstr ""
+
+#: functions/wpzoom/options.php:171
+msgid ""
+"To import the options from another installation of this theme paste your "
+"code here."
+msgstr ""
+
+#: functions/wpzoom/options.php:200
+msgid ""
+"To import widgets from another installation of this theme insert your "
+"exported code here."
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-giphy-controller.php:56
+#, php-format
+msgid ""
+"To request A GIPHY API Key click on <strong><a href='%s'>this link</a>"
+"</strong>."
+msgstr ""
+
+#: functions/jetpack/plugin-enhancements.php:293
+#, php-format
+msgid "To use %1$s, please activate the Jetpack plugin&rsquo;s %2$s."
+msgstr ""
+
+#: functions/functions.php:75 functions/customizer/customizer-data.php:419
+msgid "Top Menu"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:1201
+msgid "Top Menu Links"
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-giphy-controller.php:236
+msgid "Track info get with success."
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-giphy-controller.php:308
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-giphy-controller.php:328
+msgid "Trimmed url get with success"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:185
+msgid "Twitter"
+msgstr ""
+
+#: functions/functions.php:589
+msgid "Twitter Username"
+msgstr ""
+
+#: functions/wpzoom/components/post-slider/post-slider.php:73
+msgid "Type: "
+msgstr ""
+
+#: functions/wpzoom/components/customizer/controls.php:398
+msgid "Typography"
+msgstr ""
+
+#: functions/wpzoom/options.php:101
+msgid "Typography Preview"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:1270
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:1280
+msgid "Unable to determine what plugin was installed."
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:916
+msgid "Unknown failure reason."
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater.php:42
+msgid "unlimited"
+msgstr ""
+
+#: functions/wpzoom/components/featured-posts/wpzoom-featured-posts.php:352
+msgid "Unpublished"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:280
+msgid "Unselect all"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-tour.php:152
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-tour.php:159
+msgid "Unselect recommended"
+msgstr ""
+
+#: functions/wpzoom/components/portfolio/portfolio.php:132
+msgid "Update Category"
+msgstr ""
+
+#: functions/wpzoom/components/admin/admin.php:133
+msgid "Update Framework"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:256
+msgid "Update plugin"
+msgid_plural "Update plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:261
+msgid "Update required for plugin"
+msgid_plural "Update required for plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater.php:54
+msgid ""
+"Updating this theme will lose any modifications you have made to this theme "
+"and translations stored in theme folder. Changes made in Customizer and "
+"Custom CSS code added in Additional CSS will not be affected. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: functions/wpzoom/components/medialib-uploader.php:40
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: functions/wpzoom/components/medialib-uploader.php:38
+msgid "Upload"
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-giphy-controller.php:379
+msgid "Upload thumbnail"
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-giphy-controller.php:303
+msgid "Upload to giphy failed."
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-giphy-controller.php:406
+msgid "Upload to media library failed."
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-giphy-controller.php:411
+msgid "Upload to media library with success"
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-self-hosted-controller.php:66
+msgid "Upload Video"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:1481
+msgid "Uppercase"
+msgstr ""
+
+#: functions/post-options.php:79
+msgid "URL"
+msgstr ""
+
+#: functions/wpzoom/components/video-thumb.php:227
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-video-background-on-hover.php:189
+msgid "Use This as the Featured Image"
+msgstr ""
+
+#: functions/wpzoom/components/post-slider/post-slider.php:237
+msgid "Use This Image"
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-video-background-on-hover.php:187
+msgid "Use this video"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:1433
+#, php-format
+msgid "User %1$d remapped to %2$d"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:722
+msgid "User does not have permission!"
+msgstr ""
+
+#: functions/wpzoom/components/admin/settings-page.php:240
+msgid "Using Import/Export"
+msgstr ""
+
+#: functions/theme-guide-data.php:21
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:117
+msgid ""
+"Using the <strong>Live Customizer</strong> you can easily upload your "
+"<strong>logo image</strong>, change <strong>fonts, colors, widgets, "
+"menus</strong> and much more!"
+msgstr ""
+
+#: functions/wpzoom/components/theme-tour/theme-tour.php:105
+msgid ""
+"Using the Live Customizer you can easily upload your logo image, change "
+"fonts, colors, widgets, menus and much more!"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/control/background-gradient.php:82
+msgid "Vertical"
+msgstr ""
+
+#: functions/wpzoom/components/post-slider/post-slider.php:75
+msgid "Video"
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-video-background-on-hover.php:196
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-giphy-controller.php:240
+msgid "Videos must be 15 minutes or less."
+msgstr ""
+
+#: functions/wpzoom/components/customizer/helpers/helpers.php:1711
+msgid "Vietnamese"
+msgstr ""
+
+#: functions/wpzoom/components/portfolio/walker-category-filter.php:13
+#, php-format
+msgid "View all posts filed under %s"
+msgstr ""
+
+#: functions/wpzoom/components/portfolio/portfolio.php:131
+msgid "View Category"
+msgstr ""
+
+#: functions/wpzoom/components/medialib-uploader.php:60
+msgid "View File"
+msgstr ""
+
+#: wpzoom-slider.php:107 functions/widgets/single-page.php:129
+msgid "View More"
+msgstr ""
+
+#: single-listing.php:107 single-listing-full.php:104
+msgid "View more <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:193
+msgid "View pages"
+msgstr ""
+
+#: functions/wpzoom/components/portfolio/portfolio.php:79
+msgid "View Portfolio Item"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-tour.php:139
+msgid "View selected design"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:205
+msgid "View Server Requirements"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:147
+msgid "View site"
+msgstr ""
+
+#: functions/custom-post-types.php:59
+msgid "View Slideshow Item"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:206
+msgid "View System Details"
+msgstr ""
+
+#: functions/custom-post-types.php:17
+msgid "View Testimonial"
+msgstr ""
+
+#: functions/woocommerce.php:29 functions/woocommerce.php:41
+msgid "View your shopping cart"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:385
+msgid "View your website"
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-video-background-on-hover.php:141
+msgid "Vimeo"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:146
+msgid "Warning!"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:215
+msgid ""
+"WARNING: Selecting this option will delete all data from the previous import."
+" Choose this option only if this is intended."
+msgstr ""
+
+#: functions/wpzoom/components/tracking/class-plugin-usage-tracker.php:309
+msgid ""
+"We can't detect any product information. This is most probably because you "
+"have not included the code snippet."
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-self-hosted-controller.php:60
+msgid ""
+"We recommend using a very small video file in a low quality, to make sure it "
+"loads fast enough (2-5 MB)."
+msgstr ""
+
+#: functions/wpzoom/components/theme-tour/theme-tour.php:119
+#, php-format
+msgid ""
+"We recommend you install and activate the required plugins for a better "
+"experience with the %s theme!"
+msgstr ""
+
+#: functions/wpzoom/components/admin/settings-fields.php:351
+msgid "Web Safe Fonts"
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-self-hosted-controller.php:104
+msgid "WebM video URL"
+msgstr ""
+
+#: comments.php:73
+msgid "Website"
+msgstr ""
+
+#. %s Theme name
+#: functions/wpzoom/components/theme-tour/theme-tour.php:88
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-tour.php:118
+#, php-format
+msgid "Welcome to %s!"
+msgstr ""
+
+#. %s theme name.
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:156
+#, php-format
+msgid "Welcome to %s! &#128075;"
+msgstr ""
+
+#: functions/post-options.php:62
+msgid ""
+"When a URL is added, the title of the current slide will become clickable"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-widgets-import.php:189
+msgid "Widget already exists"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-widgets-import.php:133
+msgid "Widget area does not exist in theme (using Inactive)"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer.php:470
+msgid "Widget data is empty!"
+msgstr ""
+
+#: functions/customizer/customizer-data.php:1064
+msgid "Widget Title"
+msgstr ""
+
+#: functions/widgets/subpages.php:165
+msgid "Widget title"
+msgstr ""
+
+#: functions/widgets/testimonials.php:185
+msgid "Widget Title:"
+msgstr ""
+
+#: functions/wpzoom/options.php:187
+#: functions/customizer/customizer-data.php:1054
+msgid "Widgets"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:977
+msgid "WooCommerce needs to be disabled"
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:380
+msgid "WordPress 101 Video Tutorials"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:263
+msgid ""
+"WordPress creates by default a new page \"Sample page\" and a post \"Hello "
+"World!\". If you check this option, they will be deleted automatically. <br "
+"/>Note: If you have edited the \"Sample page\" or \"Hello World!\", disable "
+"this option to skip deletion!"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:411
+msgid ""
+"WordPress creates by default a new page \"Sample page\" and a post \"Hello "
+"World!\". If you check this option, they will be deleted automatically. <br "
+"/>Note: If you have edited the sample page and post, they will not be "
+"deleted."
+msgstr ""
+
+#. %s doc link.
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:926
+msgid ""
+"WordPress debug mode is currently enabled on your website. With this, any "
+"errors from third-party plugins might affect the import process."
+msgstr ""
+
+#: functions/wpzoom/options.php:74
+msgid "WordPress Features"
+msgstr ""
+
+#: functions/wpzoom/components/theme-tour/theme-tour.php:99
+#, php-format
+msgid ""
+"Would you like to import the demo content to have the exact looks as our "
+"demo for %s theme"
+msgstr ""
+
+#. Author of the theme
+#: functions/wpzoom/wpzoom.php:150
+#: functions/wpzoom/components/admin/admin.php:123
+#: functions/wpzoom/components/admin/admin.php:125
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:150
+msgid "WPZOOM"
+msgstr ""
+
+#: functions/wpzoom/components/medialib-uploader.php:15
+msgid "WPZOOM Exporter"
+msgstr ""
+
+#: functions/wpzoom/components/dashboard/dashboard.php:109
+msgid "WPZOOM News"
+msgstr ""
+
+#: functions/wpzoom/components/admin/settings-page.php:78
+msgid "WPZOOM servers are currently unavailable. Please try again later."
+msgstr ""
+
+#: functions/widgets/call-to-action.php:18
+msgid "WPZOOM: Call to Action"
+msgstr ""
+
+#: functions/widgets/single-page.php:18
+msgid "WPZOOM: Single Page"
+msgstr ""
+
+#: functions/widgets/subpages.php:18
+msgid "WPZOOM: Sub-Pages"
+msgstr ""
+
+#: functions/widgets/woocommerce-category.php:18
+msgid "WPZOOM: WooCommerce Category"
+msgstr ""
+
+#: content-single.php:9
+msgid "Written by"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:914
+msgid "XMLReader Support Missing"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer-log.php:398
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer-log.php:464
+msgid "Yes"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:140
+msgid "Yes, erase content"
+msgstr ""
+
+#: functions/wpzoom/components/tracking/class-plugin-usage-tracker.php:876
+msgid "Yes, Please"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:550
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:589
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:798
+#: functions/wpzoom/components/demo-importer/class-wpzoom-demo-import.php:825
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer.php:161
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer.php:256
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer.php:303
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer.php:390
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer.php:447
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer.php:487
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer.php:514
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer.php:606
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer.php:633
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer.php:666
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer.php:727
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer.php:768
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer.php:805
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer.php:841
+msgid "You are not allowed to perform this action"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer.php:311
+msgid ""
+"You are not allowed to perform this action! Please make sure your license "
+"key is activated."
+msgstr ""
+
+#: wpzoom-slider.php:121
+msgid "You are now ready to set-up your Slideshow content."
+msgstr ""
+
+#: functions/wpzoom/components/updater/framework-updater.php:271
+#, php-format
+msgid ""
+"You are using an outdated version of ZOOM Framework, please <a href=\"%s\">"
+"update now</a>. <input type=\"button\" class=\"close button\" value=\"Hide\" "
+"/>"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:711
+#, php-format
+msgid ""
+"You can also configure your front page and posts page later from the "
+"%1$sReading Settings%2$s"
+msgstr ""
+
+#: functions/widgets/single-page.php:185
+msgid ""
+"You can easily split the content you want to show in the widget by adding "
+"the <code>&lt;!--more--&gt;</code> tag."
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/importers/class-wpzoom-demo-importer-log.php:100
+msgid ""
+"You can easily update permissions by adding the following code into the wp-"
+"config.php file."
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-tour.php:196
+msgid ""
+"You can Import the Demo Content or Live Preview the chosen design in a new "
+"tab. Also, you can easily view the pages by clicking on thumbnails below and "
+"the preview will appear in the right section."
+msgstr ""
+
+#: functions/wpzoom/options.php:155
+msgid ""
+"You can include this information in your support tickets on WPZOOM Support "
+"Desk."
+msgstr ""
+
+#: functions/wpzoom/components/theme-tour/theme-tour.php:99
+#, php-format
+msgid ""
+"You can now import the demo content by clicking the button %s or from the "
+"<em>Demo Content</em> section here under Import/Export."
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-license.php:325
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-license.php:395
+msgid "You can't access this action."
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater.php:46
+#, php-format
+msgid "You have %1$s / %2$s sites activated."
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:462
+msgid ""
+"You have already configured the settings for this demo!<br/>If you want to "
+"configure it again, please Erase it first."
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/demo-importer.php:151
+#, php-format
+msgid ""
+"You have already imported this demo (%s). Are you sure you want to import it "
+"again?"
+msgstr ""
+
+#: functions/wpzoom/components/admin/settings-page.php:88
+#, php-format
+msgid ""
+"You have already installed and activated Child Theme %s, in this case you "
+"can't create new."
+msgstr ""
+
+#: functions/wpzoom/components/admin/settings-page.php:87
+msgid "You have Child Theme activated!"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:95
+msgid "You have complete setup your theme."
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:171
+#, php-format
+msgid ""
+"You have entered an incorrect license key for <strong>%1$s theme</strong>. "
+"Please %2$senter a correct key%3$s or %4$spurchase a new license%5$s for "
+"theme you're currently using."
+msgstr ""
+
+#. 1: theme name 2: admin license page 3: purchase license link
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-license.php:263
+#, php-format
+msgid ""
+"You have entered an incorrect license key for <strong>%1$s theme</strong>. "
+"Please <strong><a href=\"%2$s\">enter a correct key</a></strong> or <strong>"
+"<a href=\"%3$s\" target=\"_blank\">purchase a new license</a></strong> for "
+"theme you're currently using."
+msgstr ""
+
+#: functions/wpzoom/components/theme-tour/theme-tour.php:133
+#, php-format
+msgid ""
+"You have imported the «%1$s» demo content for the %2$s theme. Now we "
+"recommend goint to the Next step."
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:94
+msgid "You have not finished setup your theme."
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:106
+msgid "You have successfully deleted the demo content!"
+msgstr ""
+
+#: functions/wpzoom/components/updater/framework-updater.php:48
+msgid "You have successfully updated ZOOM Framework!"
+msgstr ""
+
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:157
+msgid ""
+"You just installed a new theme and don&rsquo;t know where to start? We&rsquo;"
+"re here to help you!"
+msgstr ""
+
+#. %s doc link.
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:916
+msgid ""
+"You're close to importing the template. To complete the process, enable "
+"XMLReader support on your website."
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:336
+msgid ""
+"You're using a discontinued theme. We highly recommend switching to a "
+"different theme compatible with the latest WordPress updates."
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:179
+#, php-format
+msgid ""
+"Your <strong>%1$s theme</strong> license is <strong>%2$s</strong>, please "
+"%3$sactivate your license key%4$s to enable theme updates"
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:159
+#, php-format
+msgid ""
+"Your <strong>%1$s theme</strong> license is <strong>%2$s</strong>, please "
+"%3$srenew your license key%4$s to enable theme updates"
+msgstr ""
+
+#. 1: theme name 2: license status 3: renewal link
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-license.php:269
+#, php-format
+msgid ""
+"Your <strong>%1$s theme</strong> license is <strong>%2$s</strong>, please "
+"<strong><a href=\"%3$s\">activate your license key</a></strong> to enable "
+"theme updates"
+msgstr ""
+
+#. 1: theme name 2: license status 3: renewal link
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-license.php:254
+#, php-format
+msgid ""
+"Your <strong>%1$s theme</strong> license is <strong>%2$s</strong>, please "
+"<strong><a href=\"%3$s\">renew your license key</a></strong> to enable theme "
+"updates"
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:175
+#, php-format
+msgid ""
+"Your <strong>%1$s theme</strong> license key is <strong>%2$s</strong>, "
+"please %3$scheck the status%4$s of your license or get in touch with the "
+"WPZOOM team for more details."
+msgstr ""
+
+#. 1: theme name 2: license status 3: renewal link
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-license.php:266
+#, php-format
+msgid ""
+"Your <strong>%1$s theme</strong> license key is <strong>%2$s</strong>, "
+"please <strong><a href=\"%3$s\">check the status</a></strong> of your "
+"license or get in touch with the WPZOOM team for more details."
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:167
+#, php-format
+msgid ""
+"Your <strong>%1$s theme</strong> license key is <strong>inactive</strong>. "
+"Please %2$sgo to this page%3$s and click the <strong>Activate "
+"License</strong> button to enable theme updates"
+msgstr ""
+
+#. 1: theme name 2: admin license page
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-license.php:260
+#, php-format
+msgid ""
+"Your <strong>%1$s theme</strong> license key is <strong>inactive</strong>. "
+"Please <strong><a href=\"%2$s\">go to this page</a></strong> and click the "
+"<strong>Save &amp; Activate</strong> button to enable theme updates"
+msgstr ""
+
+#: functions/wpzoom/components/child-theme/child-theme.php:295
+msgid "Your child theme has already been installed and is now activated."
+msgstr ""
+
+#: functions/wpzoom/components/child-theme/child-theme.php:288
+msgid "Your child theme has already been installed."
+msgstr ""
+
+#: functions/wpzoom/components/child-theme/child-theme.php:317
+#: functions/wpzoom/components/child-theme/child-theme.php:340
+msgid "Your child theme has been installed and is now activated."
+msgstr ""
+
+#: functions/wpzoom/components/child-theme/child-theme.php:310
+#: functions/wpzoom/components/child-theme/child-theme.php:333
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:162
+msgid "Your child theme has been installed."
+msgstr ""
+
+#: functions/template-tags.php:39
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:688
+msgid "Your latest posts"
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:538
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-license.php:551
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#. %s: expires license date
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:522
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-license.php:535
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:529
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-license.php:542
+msgid "Your license key has been disabled."
+msgstr ""
+
+#. %1$s License tab url. %2$s Renew license url.
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:974
+#, php-format
+msgid ""
+"Your license key has been expired and now you can't import the demo content. "
+"Please %1$s or %2$s your license key to be able to import the demo content."
+msgstr ""
+
+#: functions/jetpack/plugin-enhancements.php:389
+msgid "Your request failed permission check."
+msgstr ""
+
+#: functions/jetpack/plugin-enhancements.php:396
+msgid "Your request was processed. See ya!"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:670
+msgid ""
+"Your theme displays a <strong>Static Page</strong> on the front page, but "
+"this theme works best when displaying your <strong>Latest posts</strong> on "
+"the front page!"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:578
+msgid ""
+"Your theme includes the following menu locations. Please select an existing "
+"menu for each location"
+msgstr ""
+
+#: functions/wpzoom/components/customizer/setup.php:78
+#: functions/wpzoom/components/admin/settings-page.php:258
+msgid ""
+"Your theme is not licensed for use on this website or your license key "
+"expired. <br/>Please activate or renew your license key in order to use this "
+"theme."
+msgstr ""
+
+#: functions/wpzoom/components/theme-updater/theme-updater-admin.php:335
+msgid "Your theme is outdated!"
+msgstr ""
+
+#. %s: wpzoom account licenses link
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding-license.php:561
+#, php-format
+msgid ""
+"Your theme license key has reached its activation limit. Please <a "
+"href=\"%s\" target=\"_blank\">upgrade</a> your license or contact WPZOOM if "
+"you have an unlimited license."
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:818
+msgid "Your user account doesn't have permission to resize images"
+msgstr ""
+
+#: functions/wpzoom/components/theme-setup/wpzoom-theme-setup.php:674
+msgid ""
+"Your website currently displays <strong>Latest blog posts</strong> on the "
+"front page, but this theme works best when you set a <strong>Static "
+"Page</strong> with a special page template as your front page.<br/> We "
+"recommend you to select <strong>A static page</strong> option below and then "
+"select the <strong>\"Homepage\"</strong> and <strong>\"Blog\"</strong> pages "
+"from the lists below."
+msgstr ""
+
+#: functions/wpzoom/components/video-background-on-hover/wpzoom-video-background-on-hover.php:141
+msgid "YouTube"
+msgstr ""
+
+#: functions/wpzoom/components/demo-importer/wordpress-importer/class-wxr-importer.php:1656
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: single-listing.php:142 single-listing-full.php:139
+msgid "Zip Code:"
+msgstr ""
+
+#. %s WPZOOM framework version
+#: functions/wpzoom/components/onboarding/class-wpzoom-onboarding.php:396
+#, php-format
+msgid "ZOOM Framework %s"
+msgstr ""
+
+#: functions/wpzoom/pages/admin.php:31
+#, php-format
+msgid "ZOOM Framework <strong>%s</strong>"
+msgstr ""
+
+#: functions/wpzoom/pages/update.php:3
+msgid "ZOOM Framework Update"
+msgstr ""
+
+#: functions/widgets/subpages.php:171
+msgid "— Select —"
+msgstr ""

@@ -1,0 +1,158 @@
+Presence
+https://www.wpzoom.com/themes/presence
+
+CHANGELOG
+---------
+
+v 2.0.12 (October 8, 2024)
+
+    - Added support for WPZOOM Portfolio
+
+
+v 2.0.11 (April 19, 2024)
+
+    - Updating outdated WooCommerce templates
+
+
+v 2.0.10 (March 13, 2024)
+
+    - Minor CSS fixes
+
+
+v 2.0.9 (September 21, 2023)
+
+    - Minor bug fix
+
+
+v 2.0.8 (September 21, 2022)
+
+    - Added the Dark Style demo to the demo importer
+
+
+v 2.0.7 (June 28, 2021)
+
+    - Fixed a bug with the header image in static pages
+    - Added a new option to hide the the header image in static pages
+
+
+v 2.0.6 (March 4, 2021)
+
+    - Fixed issues listed in the jQuery Migrate Helper plugin
+    - Multiple improvements to improve the performance of the theme
+    ⚠️ Make sure to clear the cache after updating your theme in your caching and/or optimization plugins (Autoptimize, etc.)
+
+
+v 2.0.5 (August 13, 2020)
+
+    - Fixed a bug with comments not appearing after updating to WordPress 5.5
+
+
+v 2.0.4 (April 16, 2020)
+
+    - Minor improvements to the styling of different Gutenberg blocks
+
+
+v 2.0.3 (April 12, 2020)
+
+    - Minor bug fix with the alignment not working in the Quote block
+
+
+v 2.0.2 (April 9, 2020)
+
+    - Added new demo: "Organic Shop"
+
+
+v 2.0.1 (April 7, 2020)
+
+    - Added "Business - Homepage" template in Beaver Builder
+    - Added "Re-order" feature for content displayed in the homepage slideshow (Posts, Pages or Slideshow posts)
+    - Minor bug fixes
+
+
+v 2.0.0 (April 6, 2020)
+
+    - New: Beaver Builder Integration + new pre-made templates in the builder.
+    - New: Dark Skin
+    - Improvements to Typography and Colors sections in the Customizer
+
+
+v 1.0.15 (December 3, 2019)
+
+    - Minor bug fix with caption text for images added using the block editor.
+
+
+v 1.0.14 (April 27, 2019)
+
+    - Fixed a small bug with posts layout on the search results page
+
+
+v 1.0.13 (December 10, 2018)
+
+    - Added the Classic Editor plugin in the list of required plugin in order to prevent issues with Unyson and the new editor.
+
+
+v 1.0.12 (December 7, 2018)
+
+    - Minor bug fixes in WordPress 5.0
+
+
+v 1.0.11 (August 16, 2018)
+
+    - Added Gutenberg Support: wide images support, multiple bug fixes
+
+
+v 1.0.10 (May 25, 2018)
+
+    - Added support for WordPress 4.9.6 - Comments Cookie Opt-in (GDPR)
+    - Fixed WooCommerce 3.4 notices
+
+
+v 1.0.9 (May 14, 2018)
+
+    - Minor bug fix in the Content Box widget from Unyson Page Builder
+
+
+v 1.0.8 (April 11, 2018)
+
+    - Minor bug fix with The Events Calendar events in mobile view
+
+
+v 1.0.7 (November 28, 2017)
+
+    - Fixing a minor bug in WordPress 4.9 with image captions
+
+
+v 1.0.6 (October 15, 2017)
+
+    - Fixed a conflict with Ninja Forms plugin
+
+
+v 1.0.5 (April 27, 2017)
+
+    - Fixed multiple bugs in WooCommerce 3.0
+    - Fixed a bug in WooCommerce Featured Products widget.
+
+
+v 1.0.4 (April 10, 2017)
+
+    - Added support for WooCommerce 3.0.0
+
+
+v 1.0.3 (January 16, 2017)
+
+    - bug fix with logo uploader in Customizer
+
+
+v 1.0.2 (November 25, 2016)
+
+    - Added new sample demo: Education.
+
+
+v 1.0.1 (November 22, 2016)
+
+    - header.php - fixed minor bug with mobile menu location
+
+
+v 1.0 (October 26, 2016)
+
+	- initial release

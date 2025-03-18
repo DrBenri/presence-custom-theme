@@ -1,0 +1,140 @@
+/* Green Scheme */
+/* Default Color Scheme */
+body {
+  background: linear-gradient(to bottom, #62C27C 0%, #3a8a50 100%);
+  background-color: #62C27C; }
+
+a {
+  color: #000000; }
+
+a:hover, a:focus {
+  color: #62C27C; }
+
+div.navigation span.current {
+  color: #62C27C; }
+
+.navbar-wpz > .current-menu-item > a, .navbar-wpz > .current_page_item > a {
+  color: #62C27C; }
+
+.navbar-nav .current-menu-item > a,
+.navbar-nav .current_page_item > a,
+.navbar-nav .current-menu-parent > a {
+  color: #62C27C; }
+
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  background-color: #62C27C;
+  color: #fff; }
+  button:hover,
+  input[type="button"]:hover,
+  input[type="reset"]:hover,
+  input[type="submit"]:hover {
+    background: #000;
+    color: #fff; }
+
+.infinite-scroll #infinite-handle span {
+  background-color: #62C27C; }
+  .infinite-scroll #infinite-handle span:hover {
+    background: #000; }
+
+.slide-style-1 .slides .slide_button a {
+  color: #000;
+  background: #fff; }
+  .slide-style-1 .slides .slide_button a:hover, .slide-style-1 .slides .slide_button a:active {
+    color: #fff;
+    background: #62C27C; }
+
+/* Slide Style 2 */
+.slide-style-2 .slides .slide_button a {
+  color: #000;
+  background: #fff; }
+  .slide-style-2 .slides .slide_button a:hover, .slide-style-2 .slides .slide_button a:active {
+    color: #fff;
+    background: #62C27C; }
+
+/* Slide Style 3 */
+.slide-style-3 .slides .slide_button a {
+  color: #fff;
+  background: #000; }
+  .slide-style-3 .slides .slide_button a:hover, .slide-style-3 .slides .slide_button a:active {
+    color: #fff;
+    background: #62C27C; }
+
+.cat-links a:hover {
+  color: #62C27C; }
+
+.entry-content a {
+  color: #62C27C; }
+
+.tag_list a:hover {
+  color: #62C27C;
+  border-color: #62C27C; }
+
+.author_links a:hover, .author_links a:active {
+  color: #62C27C; }
+
+.author_links a:hover:before {
+  color: #62C27C; }
+
+.zoom-twitter-widget a {
+  color: #62C27C; }
+
+.zoom-twitter-widget a:hover {
+  color: #62C27C; }
+
+.zoom-twitter-widget time:hover {
+  color: #62C27C; }
+
+.wpzoom-featured-cat h3.title a:hover {
+  color: #62C27C; }
+
+.wpzoom-calltoaction .cta-btn {
+  background-color: #62C27C; }
+
+.site-footer {
+  background: #161719; }
+  .site-footer button {
+    background: #62C27C; }
+  .site-footer input[type=button], .site-footer input[type=reset], .site-footer input[type=submit] {
+    background: #62C27C; }
+  .site-footer button:hover {
+    background: #F1F1F1; }
+  .site-footer input[type=button]:hover, .site-footer input[type=reset]:hover, .site-footer input[type=submit]:hover {
+    background: #F1F1F1; }
+
+.woocommerce #respond input#submit,
+.woocommerce a.button,
+.woocommerce button.button,
+.woocommerce input.button {
+  background: #62C27C; }
+
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt {
+  background: #62C27C; }
+
+.woocommerce ul.products li.product h3:hover {
+  color: #62C27C; }
+
+.woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover {
+  background: #000 !important; }
+
+.archive .inner-wrap .listing-widget-details h3.listing-title a:hover, .wp-listings-shortcode .inner-wrap .listing-widget-details h3.listing-title a:hover {
+  color: #62C27C; }
+
+.listing-navigation a:hover {
+  color: #62C27C !important; }
+
+.portfolio-archive-taxonomies li.current-cat a {
+  color: #62C27C; }
+
+.wpzoom-calltoaction .cta-btn {
+  background-color: #62C27C; }
+  .wpzoom-calltoaction .cta-btn:hover, .wpzoom-calltoaction .cta-btn:active {
+    background-color: #000; }
+
+.single #jp-relatedposts .jp-relatedposts-items-visual h4.jp-relatedposts-post-title a:hover {
+  color: #62C27C; }

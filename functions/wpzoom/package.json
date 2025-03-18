@@ -1,0 +1,31 @@
+{
+	"name": "wpzoom-framework",
+	"version": "2.0.0",
+	"private": true,
+	"main": "Gruntfile.js",
+	"author": "WPZOOM",
+	"license": "ISC",
+	"dependencies": {
+		"@types/jquery": "^3.5.5"
+	},
+	"scripts": {
+		"build": "grunt"
+	},
+	"devDependencies": {
+		"@lodder/grunt-postcss": "^3.0.1",
+		"autoprefixer": "^10.3.1",
+		"grunt": "^1.4.1",
+		"grunt-browserify": "^6.0.0",
+		"grunt-contrib-concat": "^1.0.1",
+		"grunt-contrib-cssmin": "^4.0.0",
+		"grunt-contrib-jshint": "^3.0.0",
+		"grunt-contrib-uglify": "^5.0.1",
+		"grunt-contrib-watch": "^1.1.0",
+		"grunt-replace": "^2.0.2",
+		"grunt-sass": "^3.1.0",
+		"node-sass": "^6.0.0",
+		"pixrem": "^5.0.0",
+		"postcss": "^8.3.6",
+		"postcss-flexibility": "^2.0.0"
+	}
+}

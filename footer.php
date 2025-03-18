@@ -64,7 +64,7 @@ if ( $widgets_areas > 0 ) {
 
                 <p class="copyright"><?php zoom_customizer_partial_blogcopyright(); ?></p>
 
-                <p class="designed-by"><?php printf( __( 'Designed by %s', 'wpzoom' ), '<a href="https://www.wpzoom.com/" target="_blank" rel="designer">WPZOOM</a>' ); ?></p>
+                <p class="designed-by"><?php printf( __( 'Designed by %s', 'wpzoom' ), '<a href="https://www.drbenri.com/" target="_blank" rel="designer">DrBenri</a>' ); ?></p>
 
             </div><!-- .site-info -->
 
